@@ -1,7 +1,7 @@
 {
   "name": "textlint-rule-stop-words",
   "version": "0.0.0-development",
-  "description": "Textlint rule to find stop words",
+  "description": "Textlint rule to find filler words, buzzwords and chiches",
   "author": {
     "name": "Artem Sapegin",
     "url": "http://sapegin.me"
@@ -31,7 +31,10 @@
     "rule",
     "stop",
     "words",
-    "stop-words"
+    "stop-words",
+    "filler",
+    "buzzword",
+    "chiche"
   ],
   "devDependencies": {
     "eslint": "^4.8.0",
