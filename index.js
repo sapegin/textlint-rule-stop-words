@@ -1,21 +1,23 @@
 // @ts-check
 
+/** @typedef {string[]} Rule */
+
 const fs = require('fs');
 const path = require('path');
 const splitLines = require('split-lines');
 const { RuleHelper } = require('textlint-rule-helper');
-const { upperFirst } = require('lodash');
+const { differenceWith, isEqual, upperFirst } = require('lodash');
 
 const DEFAULT_OPTIONS = {
 	words: [],
-	exclude: [], // TODO
+	exclude: [],
 	defaultWords: true,
 	skip: ['BlockQuote'],
 };
 
 function reporter(context, options = {}) {
 	const opts = Object.assign({}, DEFAULT_OPTIONS, options);
-	const rules = getDict(opts.defaultWords, opts.words);
+	const rules = getDict(opts.defaultWords, opts.words, opts.exclude);
 
 	const helper = new RuleHelper(context);
 	const { Syntax, RuleError, report, fixer, getSource } = context;
@@ -58,25 +60,43 @@ function reporter(context, options = {}) {
 
 /**
  * @param {boolean} defaultWords
- * @param {string|array} extraWords
- * @return {array}
+ * @param {string|Rule[]} extraWords
+ * @param {Array<string|Rule>} excludedWords
+ * @return {Rule[]}
  */
-function getDict(defaultWords, extraWords) {
+function getDict(defaultWords, extraWords, excludedWords) {
 	const defaults = defaultWords ? loadDict(path.join(__dirname, 'dict.txt')) : [];
 	const extras = typeof extraWords === 'string' ? loadDict(extraWords) : extraWords;
-	return defaults.concat(extras);
+	return filterDict(defaults.concat(extras), excludedWords);
 }
 
 /**
  * @param {string} filepath
- * @return {array}
+ * @return {Rule[]}
  */
 function loadDict(filepath) {
-	const lines = fs.readFileSync(filepath, 'utf8');
-	return splitLines(lines)
+	return parseDict(fs.readFileSync(filepath, 'utf8'));
+}
+
+/**
+ * @param {string} contents
+ * @return {Rule[]}
+ */
+function parseDict(contents) {
+	return splitLines(contents)
 		.map(s => s.trim())
 		.filter(Boolean)
 		.map(s => s.split(/\s*>\s*/));
+}
+
+/**
+ * @param {Rule[]} rules
+ * @param {Array<string|Rule>} excludedWords
+ * @return {Rule[]}
+ */
+function filterDict(rules, excludedWords) {
+	const normalizedExcudedWords = excludedWords.map(x => Array.from(x));
+	return differenceWith(rules, normalizedExcudedWords, isEqual);
 }
 
 /**
@@ -104,5 +124,7 @@ module.exports = {
 	fixer: reporter,
 	test: {
 		getRegExp,
+		parseDict,
+		filterDict,
 	},
 };

@@ -3,7 +3,7 @@
 const TextLintTester = require('textlint-tester');
 const rule = require('./index');
 
-const { getRegExp } = rule.test;
+const { getRegExp, parseDict, filterDict } = rule.test;
 const tester = new TextLintTester();
 
 describe('getRegExp', () => {
@@ -78,6 +78,50 @@ describe('getRegExp', () => {
 		const result2 = regexp.exec(text);
 		expect(result2).toBeTruthy();
 		expect(result2[1]).toBe('java');
+	});
+});
+
+describe('parseDict', () => {
+	it('should return an empty array for empty string', () => {
+		const result = parseDict('');
+		expect(result).toEqual([]);
+	});
+
+	it('should split text intro array of arrays', () => {
+		const result = parseDict('a\nb');
+		expect(result).toEqual([['a'], ['b']]);
+	});
+
+	it('should trim whitespace', () => {
+		const result = parseDict('   a	\nb');
+		expect(result).toEqual([['a'], ['b']]);
+	});
+
+	it('should ignore or whitespace-only lines', () => {
+		const result = parseDict('a\n \n\nb');
+		expect(result).toEqual([['a'], ['b']]);
+	});
+
+	it('should split a word and a fix', () => {
+		const result = parseDict('a>b');
+		expect(result).toEqual([['a', 'b']]);
+	});
+
+	it('should ignore whitespace around >', () => {
+		const result = parseDict('a > b');
+		expect(result).toEqual([['a', 'b']]);
+	});
+});
+
+describe('filterDict', () => {
+	it('should filter array of rules', () => {
+		const result = filterDict([['a'], ['b']], [['a']]);
+		expect(result).toEqual([['b']]);
+	});
+
+	it('should accept strigs for filter instead of arrays', () => {
+		const result = filterDict([['a'], ['b']], ['a']);
+		expect(result).toEqual([['b']]);
 	});
 });
 

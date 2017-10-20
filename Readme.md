@@ -41,15 +41,18 @@ By default the rule will check against my personal [dictionary](./dict.txt). You
       "defaultWords": true,
       // Syntax elements to skip. Overrides the default
       "skip": ["Blockquote"],
-      // List of extra words
+      // Extra words
       "words": [
         "etc.",
         "you can"
       ],
+      // Excluded words
+      "exclude": [
+        "utilize",
+        "period of time"
+      ],
       // OR load terms from a file
-      "words": "~/stop-words.txt",
-      // OR load terms from npm
-      "words": "@johnsmith/stop-words"
+      "words": "~/stop-words.txt"
     }
   }
 }
