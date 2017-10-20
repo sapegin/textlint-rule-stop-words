@@ -13,9 +13,9 @@ For example:
 * thick as a brick
 * utilize
 
-(You can customize the rules as you wish.)
+(You can disable some words or add your own.)
 
-![](https://d3vv6lp55qjaqc.cloudfront.net/items/1p0s3e2p1U1m1r3N2Q41/stop-words.png)
+![](https://d3vv6lp55qjaqc.cloudfront.net/items/2P3W3w0d1N0K421H333m/textlint-rule-stop-words.png)
 
 ## Installation
 
