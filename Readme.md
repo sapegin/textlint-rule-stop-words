@@ -31,7 +31,7 @@ textlint --fix --rule stop-words Readme.md
 
 ## Configuration
 
-By default the rule will check against my personal [dictionary](./dict.txt). You can change it in your `.textlintrc`:
+You can configure the rule in your `.textlintrc`:
 
 ```js
 {
@@ -58,7 +58,7 @@ By default the rule will check against my personal [dictionary](./dict.txt). You
 }
 ```
 
-Read more about [configuring textlint](https://github.com/textlint/textlint/blob/master/docs/configuring.md).
+Check the [default dictionary](./dict.txt). Read more about [configuring textlint](https://github.com/textlint/textlint/blob/master/docs/configuring.md).
 
 ## Tips & tricks
 
