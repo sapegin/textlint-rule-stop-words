@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/sapegin/textlint-rule-stop-words.svg)](https://travis-ci.org/sapegin/textlint-rule-stop-words)
 [![npm](https://img.shields.io/npm/v/textlint-rule-stop-words.svg)](https://www.npmjs.com/package/textlint-rule-stop-words)
 
-[textlint](https://github.com/textlint/textlint) rule to find filler words, buzzwords and clichés — 1600+ words and phrases.
+[textlint](https://github.com/textlint/textlint) rule to find filler words, buzzwords and clichés — 1600+ words and phrases in English.
 
 For example:
 
@@ -82,6 +82,12 @@ Oh my javascript!
 * [weasels](https://github.com/wooorm/weasels/)
 * [buzzwords](https://github.com/wooorm/buzzwords/)
 * [retext-simplify](https://github.com/wooorm/retext-simplify/)
+
+## Other textlint rules
+
+* [textlint-rule-apostrophe](https://github.com/sapegin/textlint-rule-apostrophe) — correct apostrophe usage
+* [textlint-rule-diacritics](https://github.com/sapegin/textlint-rule-diacritics) — words with diacritics
+* [textlint-rule-terminology](https://github.com/sapegin/textlint-rule-terminology) — correct terms spelling
 
 ## Change log
 
