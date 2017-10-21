@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/sapegin/textlint-rule-stop-words.svg)](https://travis-ci.org/sapegin/textlint-rule-stop-words)
 [![npm](https://img.shields.io/npm/v/textlint-rule-stop-words.svg)](https://www.npmjs.com/package/textlint-rule-stop-words)
 
-[textlint](https://github.com/textlint/textlint) rule to find filler words, buzzwords and chiches — 1600+ words and phrases.
+[textlint](https://github.com/textlint/textlint) rule to find filler words, buzzwords and clichés — 1600+ words and phrases.
 
 For example:
 
