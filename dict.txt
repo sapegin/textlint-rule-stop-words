@@ -990,6 +990,8 @@ nevertheless
 new economy
 new innovation
 new invention
+new kid on the block
+new kids on the block
 new normal
 next generation
 nip and tuck
@@ -1579,6 +1581,7 @@ with effect from
 with reference to
 with regard to
 with respect to
+w.r.t.
 with the exception of
 with the minimum of delay
 within that time frame
