@@ -48,10 +48,5 @@
     "lodash": "^4.17.4",
     "split-lines": "^1.1.0",
     "textlint-rule-helper": "^2.0.0"
-  },
-  "release": {
-    "analyzeCommits": "semantic-release-tamia/analyzeCommits",
-    "generateNotes": "semantic-release-tamia/generateNotes",
-    "verifyRelease": "semantic-release-tamia/verifyRelease"
   }
 }
