@@ -422,6 +422,9 @@ eat your heart out
 eat your words
 eating your own dogfood
 effect modifications
+e.g. > for example
+eg. > for example
+eg > for example
 elect
 eleventh hour
 eligible
@@ -682,6 +685,9 @@ I might add
 I would like to say
 I would like to take this opportunity to
 icing on the cake
+ie > that is
+ie. > that is
+i.e. > that is
 if and when
 if i'm understanding you correctly
 if the shoe fits
@@ -720,7 +726,7 @@ in my opinion
 in my understanding
 in my view
 in order that
-in order to
+in order to > to
 in receipt of
 in regard to
 in relation to
@@ -1526,6 +1532,7 @@ vanquish the enemy
 vested interest
 vice
 VIP
+voila
 viral
 vlogging
 vortal
