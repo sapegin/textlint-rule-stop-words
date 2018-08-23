@@ -6,7 +6,7 @@ const fs = require('fs');
 const path = require('path');
 const splitLines = require('split-lines');
 const { RuleHelper } = require('textlint-rule-helper');
-const { differenceWith, isEqual, upperFirst } = require('lodash');
+const { differenceWith, escapeRegExp, isEqual, upperFirst } = require('lodash');
 
 const DEFAULT_OPTIONS = {
 	words: [],
@@ -105,7 +105,7 @@ function filterDict(rules, excludedWords) {
  * @return {RegExp}
  */
 function getRegExp(word) {
-	const wordPattern = word.replace(/'/g, "['’‘]").replace('.', '\\.');
+	const wordPattern = escapeRegExp(word).replace(/'/g, "['’‘]");
 	return new RegExp(`(?:^|[^-\\w])(${wordPattern}(?= |\\. |\\.$|$))`, 'ig');
 }
 
