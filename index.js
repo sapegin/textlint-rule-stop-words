@@ -105,7 +105,7 @@ function filterDict(rules, excludedWords) {
  * @return {RegExp}
  */
 function getRegExp(word) {
-	const wordPattern = word.replace(/'/g, "['’‘]");
+	const wordPattern = word.replace(/'/g, "['’‘]").replace('.', '\\.');
 	return new RegExp(`(?:^|[^-\\w])(${wordPattern}(?= |\\. |\\.$|$))`, 'ig');
 }
 
