@@ -6,7 +6,7 @@ const fs = require('fs');
 const path = require('path');
 const splitLines = require('split-lines');
 const { RuleHelper } = require('textlint-rule-helper');
-const { differenceWith, escapeRegExp, isEqual, upperFirst } = require('lodash');
+const { differenceWith, escapeRegExp, upperFirst } = require('lodash');
 
 const DEFAULT_OPTIONS = {
 	words: [],
@@ -95,8 +95,12 @@ function parseDict(contents) {
  * @return {Rule[]}
  */
 function filterDict(rules, excludedWords) {
-	const normalizedExcudedWords = excludedWords.map(x => Array.from(x));
-	return differenceWith(rules, normalizedExcudedWords, isEqual);
+	return differenceWith(rules, excludedWords, (rule, word) => {
+		if (Array.isArray(word)) {
+			word = word[0];
+		}
+		return rule[0] === word;
+	});
 }
 
 /**

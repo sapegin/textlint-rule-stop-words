@@ -120,13 +120,13 @@ describe('parseDict', () => {
 
 describe('filterDict', () => {
 	it('should filter array of rules', () => {
-		const result = filterDict([['a'], ['b']], [['a']]);
-		expect(result).toEqual([['b']]);
+		const result = filterDict([['foo'], ['bar']], [['foo']]);
+		expect(result).toEqual([['bar']]);
 	});
 
-	it('should accept strigs for filter instead of arrays', () => {
-		const result = filterDict([['a'], ['b']], ['a']);
-		expect(result).toEqual([['b']]);
+	it('should accept strings for filter instead of arrays', () => {
+		const result = filterDict([['foo'], ['bar']], ['foo']);
+		expect(result).toEqual([['bar']]);
 	});
 });
 
