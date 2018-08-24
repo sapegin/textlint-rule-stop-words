@@ -69,6 +69,11 @@ describe('getRegExp', () => {
 		expect(result).toEqual([" a'b", ' a’b', ' a‘b']);
 	});
 
+	it('should not treat words as regexp', () => {
+		const result = getRegExp('i.e.').exec('I have an idea');
+		expect(result).toBeFalsy();
+	});
+
 	it('should match several word', () => {
 		const regexp = getRegExp(word);
 		const text = 'My Java is better than your java';
@@ -164,6 +169,10 @@ tester.run('textlint-rule-stop-words', rule, {
 		{
 			// Should not warn about file names
 			text: 'utilize.md',
+		},
+		{
+			// Should not treat words as regexp
+			text: 'I have an idea',
 		},
 	],
 	invalid: [
