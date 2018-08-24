@@ -40,7 +40,10 @@ function reporter(context, options = {}) {
 						const [matched, matchedWord] = match;
 
 						if (alternative) {
-							const replacement = matched.replace(matchedWord, cloneCase(alternative, matchedWord));
+							const replacement = matched.replace(
+								matchedWord,
+								cloneCase(alternative, matchedWord)
+							);
 							const range = [index, index + matched.length];
 							const fix = fixer.replaceTextRange(range, replacement);
 							const message = `Avoid using “${word}”, use “${alternative}” instead`;
@@ -65,8 +68,11 @@ function reporter(context, options = {}) {
  * @return {Rule[]}
  */
 function getDict(defaultWords, extraWords, excludedWords) {
-	const defaults = defaultWords ? loadDict(path.join(__dirname, 'dict.txt')) : [];
-	const extras = typeof extraWords === 'string' ? loadDict(extraWords) : extraWords;
+	const defaults = defaultWords
+		? loadDict(path.join(__dirname, 'dict.txt'))
+		: [];
+	const extras =
+		typeof extraWords === 'string' ? loadDict(extraWords) : extraWords;
 	return filterDict(defaults.concat(extras), excludedWords);
 }
 

@@ -20,10 +20,13 @@
   "scripts": {
     "pretest": "npm run lint",
     "test": "npm run test:jest",
+    "posttest": "npm run format",
     "lint": "eslint . --cache --fix",
     "test:jest": "jest",
     "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage",
+    "format": "prettier --write '**/*.{js,md}'",
+    "precommit": "lint-staged"
   },
   "keywords": [
     "textlintrule",
@@ -37,16 +40,27 @@
     "chiche"
   ],
   "devDependencies": {
-    "eslint": "^4.8.0",
-    "eslint-config-tamia": "^4.2.3",
-    "eslint-plugin-prettier": "^2.3.1",
-    "jest": "^21.2.1",
-    "prettier": "^1.7.4",
-    "textlint-tester": "^2.2.4"
+    "eslint": "^5.4.0",
+    "eslint-config-tamia": "^6.0.2",
+    "husky": "^0.14.3",
+    "jest": "^23.5.0",
+    "lint-staged": "^7.2.2",
+    "prettier": "^1.14.2",
+    "textlint-tester": "^5.0.0"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
-    "split-lines": "^1.1.0",
+    "lodash": "^4.17.10",
+    "split-lines": "^2.0.0",
     "textlint-rule-helper": "^2.0.0"
+  },
+  "lint-staged": {
+    "*.{js,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
   }
 }
