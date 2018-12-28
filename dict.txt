@@ -1455,6 +1455,7 @@ time is of the essence
 time period
 timely
 tip of the iceberg
+typically -> usually
 tired but happy
 to all intents and purposes
 to be arranged for
@@ -1583,6 +1584,7 @@ wise as an owl
 wished
 with a view to
 with effect from
+with minimal effort
 with reference to
 with regard to
 with respect to
