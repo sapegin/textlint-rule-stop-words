@@ -12,6 +12,7 @@ a total of
 a tough row to hoe
 a word to the wise
 absence of
+absolutely conclusive
 absolutely essential
 absolutely necessary
 abundance
@@ -54,6 +55,7 @@ afforded
 aforesaid
 against all odds
 aggregate
+agricultural crops
 air your dirty laundry
 all fun and games
 all in a day's work
@@ -124,6 +126,7 @@ at this point in time
 attributable to
 authority to
 avoid like the plague
+awkward dilemma
 axiomatic
 babe in the woods
 back against the wall
@@ -137,11 +140,13 @@ bald faced liar
 bald-headed
 ballpark figure
 banging your head against a brick wall
+banker's hours
 baptism by fire
 barking up the wrong tree
 basic necessities
 basically
 bat out of hell
+battle royal
 be able to
 be advised
 be all and end all
@@ -150,7 +155,10 @@ be in attendance
 be in possession of
 be in violation
 beat a dead horse
+beat a hasty retreat
 beat around the bush
+beauty and the beast
+beck and call
 been there, done that
 beggars can't be choosers
 behind the eight ball
@@ -168,7 +176,10 @@ better late than never
 better mousetrap
 better safe than sorry
 between a rock and a hard place
+betwixt and between
+bewildering variety
 beyond the pale
+beyond the shadow of a doubt
 bide your time
 big as life
 big cheese
@@ -184,22 +195,27 @@ birds of a feather flock together
 bit the hand that feeds you
 bite the bullet
 bite the dust
+bits and pieces
 bitten off more than he can chew
 black as coal
 black as pitch
 black as the ace of spades
 blast from the past
+blazing inferno
 bleeding edge
 bleeding heart
 blend together
+blessed event
 blessing in disguise
 blind ambition
 blind as a bat
 blind leading the blind
+blissful ignorance
 blood is thicker than water
 blood sweat and tears
 blow off steam
 blow your own horn
+blunt and brutal
 blushing bride
 boils down to
 bolt from the blue
@@ -207,6 +223,7 @@ bone to pick
 bored stiff
 bored to tears
 bottomless pit
+bound and determined
 bouquet of flowers
 boys will be boys
 brain break
@@ -224,7 +241,10 @@ brought back to reality
 building capabilities
 bull by the horns
 bull in a china shop
+bur(y|ied) the hatchet
+burn one's bridges
 burn the midnight oil
+burning issue
 burning question
 burning the candle at both ends
 burst your bubble
@@ -254,14 +274,17 @@ caused considerable confusion
 cease
 cease and desist
 checkered past
+cherished belief
 chomping at the bit
 circle back
 circumvent
 clean slate
 cleanliness is next to godliness
+clear and simple
 clear as a bell
 clear as mud
 clear goal
+clear the decks
 clickthrough
 client-centric
 close proximity
@@ -269,28 +292,34 @@ close the loop
 close to the vest
 closed fist
 cloud computing
+club-wielding police
 co-opetition
 cock and bull story
 cold shoulder
 collaboration
+colorful scene
 combat environment
 come hell or high water
 come-to-jesus moment
 common core
 commonplace
 commute back and forth
+complete monopoly
 completely destroy
 completely eliminate
 completely engulfed
 completely filled
+completely full
 comply with
 comprise
 compulsory
 conceivably
 concerning
+confused and bewildered
 connect together
 considerable
 consolidate
+conspicuous by its absence
 constitute
 constitutes
 construe
@@ -310,7 +339,9 @@ could care less
 could possibly
 count your blessings
 courteous
+coveted award
 crack of dawn
+crack troops
 crash course
 creature comforts
 crisis situation
@@ -324,6 +355,7 @@ cumulative
 curiosity killed the cat
 current trend
 currently
+curvaceous blonde
 customary
 customer-centric
 cut and dried
@@ -338,6 +370,7 @@ dark before the dawn
 datafication
 day in, day out
 dead as a doornail
+death and destruction
 decrease in strength
 deduct
 deem
@@ -353,6 +386,7 @@ descend down
 designate
 desirable benefit
 despite the fact that
+determined the truth of
 detrimental
 devil is in the details
 dichotomy
@@ -370,10 +404,12 @@ disburse
 discharge
 discontinue
 discrete
+disgraced and dishonored
 disruptive innovation
 disruptive technologies
 disseminate
 divide and conquer
+divisive quarrel
 dog and pony show
 dog days
 dog eat dog
@@ -393,11 +429,15 @@ down in the dumps
 down the hatch
 down to earth
 downsizing
+dramatic new move
 draw the line
+dread disease
+dream come true
 dressed to kill
 dressed to the nines
 drinking the kool-aid
 drives me up the wall
+drop in the bucket
 due to
 due to the fact of
 due to the fact that
@@ -410,6 +450,7 @@ dwelling
 dwindle down
 dyed in the wool
 e-learning
+e.g. > for example
 each and every
 each and every one
 eagle eye
@@ -422,9 +463,8 @@ eat your heart out
 eat your words
 eating your own dogfood
 effect modifications
-e.g. > for example
-eg. > for example
 eg > for example
+eg. > for example
 elect
 eleventh hour
 eligible
@@ -448,6 +488,7 @@ enquiry
 enter in
 enterprise content management
 enterprise service bus
+entirely absent
 entitlement
 envisage
 equal to one another
@@ -457,6 +498,7 @@ equivalent
 eradicate completely
 erroneous
 establish
+established conclusive evidence of
 et cetera
 even the playing field
 event horizon
@@ -470,6 +512,7 @@ evident
 evince
 evolve over time
 ex officio
+exact counterpart
 exact same
 examination
 exceedingly
@@ -492,9 +535,11 @@ facility
 facts of life
 failed to
 failure to
+fair and just
 fair weather friend
 fall by the wayside
 fall down
+fame and fortune
 fan the flames
 favorable approval
 feasible
@@ -506,6 +551,7 @@ fellow classmate
 fellow colleague
 few and far between
 few in number
+fickle fortune
 fifteen minutes of fame
 filled to capacity
 filthy vermin
@@ -566,6 +612,7 @@ fun in the sun
 further to
 furthermore
 fuse together
+future plan
 future plans
 fuzzy logic
 game changer
@@ -573,10 +620,12 @@ game changing
 game-changer
 garbage in, garbage out
 gather together
+gave permission to
 general public
 generation x
 generation y
 gentle as a lamb
+gentle hint
 get a kick out of
 get a leg up
 get down and dirty
@@ -589,7 +638,9 @@ gilding the lily
 give and take
 give consideration to
 give in
+glaring omission
 globalization
+glutton for punishment
 go against the grain
 go ahead and
 go at it tooth and nail
@@ -607,13 +658,18 @@ good deed for the day
 good things come to those who wait
 good time was had by all
 good times were had by all
+gory detail
+gory details
 graham logic
 grateful every day
+grateful thanks
 greased lightning
 greek to me
 green thumb
 green-eyed monster
 grew in size
+grief-stricken
+Grim Reaper
 grist for the mill
 grok > understand
 grokking > understanding
@@ -625,9 +681,12 @@ guided reading
 had a conversation
 had a discussion concerning
 hair of the dog
+hammer out
+hand in glove
 hand to mouth
 happy as a clam
 happy as a lark
+happy couple
 harder than it has to be
 has a requirement for
 has to be
@@ -641,12 +700,16 @@ have to be
 haven't got a row to hoe
 head honcho
 head over heels
+head over heels in love
 hear a pin drop
 heard it through the grapevine
+heart of gold
 heart of the action
 heart's content
 heat up
+heavily armed troops
 heavy as lead
+held a meeting
 helps keep
 hem and haw
 henceforth
@@ -664,6 +727,7 @@ high and dry
 high and mighty
 high as a kite
 higher-order thinking
+hired mercenary
 hit paydirt
 hitherto
 hold in abeyance
@@ -675,6 +739,7 @@ holistic
 holistic approach
 hollow tube
 honest as the day is long
+hook, line and sinker
 hope and trust
 horns of a dilemma
 horse of a different color
@@ -686,10 +751,10 @@ I beg to differ
 I might add
 I would like to say
 I would like to take this opportunity to
+i.e. > that is
 icing on the cake
 ie > that is
 ie. > that is
-i.e. > that is
 if and when
 if i'm understanding you correctly
 if the shoe fits
@@ -718,6 +783,7 @@ in case of
 in conjunction with
 in connection with
 in consequence
+in consequence of
 in due course
 in excess of
 in general
@@ -774,6 +840,7 @@ instructional scaffolding
 integrate with each other
 intend to
 intensity
+intensive investigation
 intention is
 interestingly
 internet of things
@@ -781,6 +848,8 @@ interpose no objection
 introduced a new
 introduced for the first time
 invested in
+iron out
+irreducible minimum
 irrespective of
 is a number
 is after
@@ -860,16 +929,21 @@ knuckle under
 labor of love
 lacked the ability to
 ladder of success
+Lady Luck
 land on your feet
 lap of luxury
+lashed out
+lashes out
 last but not least
 last hurrah
 last-ditch effort
+last-ditch stand
 later time
 law of the jungle
 law of the land
 lay down the law
 leaps and bounds
+leave no stone unturned
 led to the destruction of
 let sleeping dogs lie
 let the cat out of the bag
@@ -884,16 +958,20 @@ lick your wounds
 lies like a rug
 life's a bitch
 life's a grind
+lifeless corpse
 lift up
 light at the end of the tunnel
 lighter than a feather
 lighter than air
+lightning speed
 like clockwork
 like cunts
 like father like son
 like taking candy from a baby
 like there's no tomorrow
 limited number
+limp into port
+limps into port
 linked to
 lion's share
 literally
@@ -901,8 +979,11 @@ live and learn
 live and let live
 live studio audience
 locality
+lock, stock and barrel
 logistics
+lonely hermit
 long and short of it
+long arm of the law
 long lost love
 long tail
 look before you leap
@@ -936,19 +1017,24 @@ make my day
 make the best of a bad situation
 make the best of it
 make your blood boil
+man in the street
 man of few words
 man's best friend
 management visibility
 manner
 marginal
 mark my words
+marvels of science
 mashup
 materialise
 materialize
+matrimonial bliss
 matter-of-fact
 may in the future
 may possibly
+meager pension
 meaningful dialogue
+meaningless gibberish
 Mecca
 meet together
 meet with each other
@@ -956,6 +1042,7 @@ merge together
 might possibly
 millennial
 mindshare
+miraculous escape
 mislay
 missed the boat on that one
 mission critical
@@ -969,7 +1056,9 @@ more power to you
 more than one way to skin a cat
 moreover
 most unique
+Mother Nature
 movers and shakers
+moves into high gear
 moving experience
 moving forward
 mull over
@@ -990,7 +1079,9 @@ needle in a haystack
 needless to say
 negligible
 neither here nor there
+nervous and distraught
 netiquette
+never a dull moment
 never before
 never look back
 never say never
@@ -1001,6 +1092,7 @@ new invention
 new kid on the block
 new kids on the block
 new normal
+new record
 next generation
 nip and tuck
 nip it in the bud
@@ -1014,6 +1106,7 @@ no stone unturned
 no time like the present
 no use crying over spilled milk
 none at all
+nook and cranny
 nose to the grindstone
 not a hope in hell
 not a minute's peace
@@ -1043,7 +1136,9 @@ off the wagon
 off the wall
 offered a suggestion
 offshoring
+old adage
 old hat
+Old Man Winter
 older and wiser
 older than dirt
 older than Methuselah
@@ -1081,7 +1176,9 @@ open the flood gates
 open up
 opportunity doesn't knock twice
 organic growth
+organic life
 organizational
+original founder
 originally created
 other things being equal
 out of pocket
@@ -1101,6 +1198,8 @@ paas
 pain and suffering
 pain in the
 pain point
+paint a grim picture
+paints a grim picture
 palm of my hand
 pandering
 panic button
@@ -1115,7 +1214,9 @@ party pooper
 pass the buck
 passing fad
 past experience
+patently obvious
 patience is a virtue
+pay the supreme penalty
 pay through the nose
 pedagogy
 peel back the onion
@@ -1127,6 +1228,8 @@ perfect storm
 perhaps
 period of time
 permissible
+personal friend
+personal opinion
 personalfriend
 personalopinion
 pertaining to
@@ -1135,10 +1238,14 @@ pick and choose
 pick and shovel work
 pick out
 pick up on
+picture of health
 pig in a poke
 pile it on
+pillar of society
+pillar of the church
 pillar of the community
 pin your hopes on
+pinpoint the cause
 pitter patter of little feet
 plain as day
 plain as the nose on your face
@@ -1154,21 +1261,29 @@ plunge down
 point out
 point with pride
 polar opposites
+police dragnet
 political capital
+pool of blood
 poor as a church mouse
+posh resort
 possess
 possessions
 possibly
 postpone until later
 pot calling the kettle black
 pouring down rain
+powder keg
 practicable
 practically
+pragmatic realist
+pre-dawn darkness
 preclude
 predominant
 preheat
 prescribe
+present incumbent
 present time
+prestigious law firm
 presumably
 pretty as a picture
 principal
@@ -1187,6 +1302,9 @@ promptly
 promulgate
 promulgation
 protest against
+proud heritage
+proud parents
+proved of benefit to
 provided that
 provides guidance for
 provisions
@@ -1196,7 +1314,9 @@ pull your punches
 pulling your leg
 pure as the driven snow
 pursuant to
+pursuit of excellence
 push the envelope
+put in an appearance
 put it in a nutshell
 put off
 put one over on you
@@ -1213,6 +1333,7 @@ quick as lightning
 quick-win
 quiet as a dormouse
 quite clearly
+radiant bride
 rags to riches
 raining buckets
 raining cats and dogs
@@ -1220,11 +1341,15 @@ raise up
 rank and file
 rat race
 reach out
+reached an agreement
+ready and willing
 really quite
 reap what you sow
 reason why
 red as a beet
+red faces
 red herring
+red-faced
 redaction
 refer back
 refer to
@@ -1234,6 +1359,7 @@ regarding
 regarding the
 regulation
 reimburse
+reins of government
 reinvent the wheel
 reiterate
 relating to
@@ -1253,6 +1379,7 @@ retain
 return on investment
 reverse fulfilment
 rich and famous
+right and proper
 rightshoring
 rings a bell
 ripe old age
@@ -1265,22 +1392,29 @@ rub the wrong way
 ruled the roost
 run like a business
 running in circles
+rushed to the scene
 saas
 sad but true
 sadder but wiser
+safe and sound
 safe haven
 said
 salt of the earth
 same exact
 scalability
+scantily clad
 scared stiff
 scared to death
+scintilla of evidence
+scurried to shelter
 sea change
 sealed with a kiss
 second to none
 see eye to eye
 seen the light
 seize the day
+selling like hot cakes
+selling like hotcakes
 sensorization
 seriousdanger
 serum
@@ -1296,6 +1430,7 @@ short runway
 shot in the dark
 shoulder to the wheel
 show up
+shy and withdrawn
 sick as a dog
 sigh of relief
 signed, sealed, and delivered
@@ -1313,6 +1448,7 @@ slinging mud
 slippery as an eel
 slow as molasses
 smart as a whip
+smooth and silk
 smooth as a baby's bottom
 sneaking suspicion
 snug as a bug in a rug
@@ -1330,14 +1466,20 @@ sow wild oats
 sox
 spare the rod, spoil the child
 speak of the devil
+spearheading the campaign
 specifically
 spell it out in detail
 spilled the beans
 spin-up
 spinning your wheels
+spirited debate
 spitting image of
 spoke with relish
+spotlessly clean
+sprawling base
+sprawling facility
 spread like wildfire
+spreading like wildfire
 spring to life
 squeaky wheel gets the grease
 stakeholder
@@ -1349,13 +1491,18 @@ starvation
 state-of-the-art
 statist
 statutory
+steaming jungle
 stick in the mud
+stick out like a sore thumb
+sticks out like a sore thumb
 still waters run deep
 stillpersist
 stillremains
 stitch in time
 stop and smell the roses
+storm of protest
 straight as an arrow
+stranger than fiction
 strategic
 strategic communication
 straw that broke the camel's back
@@ -1367,11 +1514,13 @@ student engagement
 stuff that dreams are made of
 stuffed shirt
 subject to
+submitted his resignation
 subsequent
 subsequent to
 subsequent upon
 subsequently
 substantial
+substantial proportion
 substantially
 successfully complete
 suddenimpulse
@@ -1381,20 +1530,28 @@ supplementary
 supply
 supposed
 supposedly
+supreme sacrifice
 surely
+surprise move
 surprisingly
 surrounded on all sides
 survival strategy
 sustainability
 sweating blood
 sweating bullets
+sweep under the rug
+sweet harmony
+sweetness and light
+sworn affidavit
 sync-up
 synergy
 systems development life-cycle
 take a load off
+take a look at
 take action
 take action to
-take a look at
+take into consideration
+take into custody
 take one for the team
 take the bait
 take the bull by the horns
@@ -1407,7 +1564,9 @@ talent relationship management
 tee off
 temper tantrum
 tenant
+tender mercies
 terminate
+terror-stricken
 that being the case
 the fact of the matter is
 the fact that
@@ -1451,13 +1610,13 @@ three sheets to the wind
 through thick and thin
 throw in the towel
 tie one on
+tie the knot
 tighter than a drum
 time and time again
 time is of the essence
 time period
 timely
 tip of the iceberg
-typically -> usually
 tired but happy
 to all intents and purposes
 to be arranged for
@@ -1486,19 +1645,24 @@ touch base
 touch with a ten foot pole
 touchpoint
 tough as nails
+tower of strength
 transmedia
 trial and error
 trials and tribulations
 tried and true
 trip down memory lane
 trivial
+true colors
+true facts
 truly
 try to figure out
 twist of fate
 two cents worth
 two equalhalves
 two peas in a pod
+typically -> usually
 ugly as sin
+ultimate outcome
 ultimately
 unavailability
 under the counter
@@ -1529,16 +1693,22 @@ utilize > use
 vain attempt
 vain effort
 value-added
+vanish in thin air
 vanquish the enemy
+various and sundry
+very unique
 vested interest
 vice
+violent explosion
 VIP
-voila
 viral
 vlogging
+voila
 vortal
+w.r.t.
 waiting for the other shoe to drop
 wakeup call
+walking encyclopedia
 warm welcome
 warrant
 was in need of
@@ -1548,6 +1718,7 @@ watching the clock
 water under the bridge
 ways and means
 we have pleasure in whatsoever
+wealth of information
 weather the storm
 web 2.0
 webinar
@@ -1571,6 +1742,7 @@ whereas
 wherever
 whether or not
 which is
+whirlwind campaign
 white as a sheet
 whoever
 whole ball of wax
@@ -1590,7 +1762,6 @@ with minimal effort
 with reference to
 with regard to
 with respect to
-w.r.t.
 with the exception of
 with the minimum of delay
 within that time frame
@@ -1601,6 +1772,7 @@ work like a dog
 world weary
 worst nightmare
 worth its weight in gold
+wouldn't touch with a ten foot pole
 write down
 writing on the wall
 wrong side of the bed
