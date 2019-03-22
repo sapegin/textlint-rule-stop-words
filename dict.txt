@@ -80,6 +80,7 @@ and all that
 and etc.
 and so forth
 and/or
+and / or
 anonymous stranger
 another day, another dollar
 antifragile
@@ -147,7 +148,6 @@ basic necessities
 basically
 bat out of hell
 battle royal
-be able to
 be advised
 be all and end all
 be desirous of
@@ -327,7 +327,6 @@ consult
 contemplate
 contrary to
 convene
-conversion
 cool as a cucumber
 cool, calm, and collected
 cooperative learning
@@ -378,7 +377,6 @@ deem to be
 deep dive
 deep web
 deficiency
-delicious
 demonstrate
 denote
 depreciate in value
@@ -415,7 +413,6 @@ dog days
 dog eat dog
 dog tired
 domiciled in
-dominant
 don't burn your bridges
 don't count your chickens
 don't look a gift horse in the mouth
@@ -480,7 +477,7 @@ empty out
 enclosed
 encounter
 encouragement
-end result
+end result > result
 endeavor
 endeavour
 enquire
@@ -497,7 +494,6 @@ equitable
 equivalent
 eradicate completely
 erroneous
-establish
 established conclusive evidence of
 et cetera
 even the playing field
@@ -839,7 +835,6 @@ insofar as
 instructional scaffolding
 integrate with each other
 intend to
-intensity
 intensive investigation
 intention is
 interestingly
@@ -1100,7 +1095,6 @@ no big deal
 no guts, no glory
 no love lost
 no pain, no gain
-no problem
 no skin off my back
 no stone unturned
 no time like the present
@@ -1268,7 +1262,6 @@ poor as a church mouse
 posh resort
 possess
 possessions
-possibly
 postpone until later
 pot calling the kettle black
 pouring down rain
@@ -1375,7 +1368,6 @@ residence
 resistance
 resulted in a decrease
 resulted in an increase
-retain
 return on investment
 reverse fulfilment
 rich and famous
@@ -1452,14 +1444,12 @@ smooth and silk
 smooth as a baby's bottom
 sneaking suspicion
 snug as a bug in a rug
-so far
 social bookmarking
 social currency
 social software
 socialize
 solely
 solicit
-solution
 something or other
 sort of
 sow wild oats
