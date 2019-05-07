@@ -76,11 +76,11 @@ ameliorate
 amendment
 American as apple pie
 an axe to grind
+and / or
 and all that
 and etc.
 and so forth
 and/or
-and / or
 anonymous stranger
 another day, another dollar
 antifragile
@@ -1669,7 +1669,12 @@ until such time
 until such time as
 until the cows come home
 unvarnished truth
+up her sleeve
+up his sleeve
+up my sleeve
 up the creek
+up their sleeve
+up your sleeve
 upcycling
 uphill battle
 upper crust
