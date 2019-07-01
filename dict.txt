@@ -11,7 +11,6 @@ a penny saved is a penny earned
 a total of
 a tough row to hoe
 a word to the wise
-absence of
 absolutely conclusive
 absolutely essential
 absolutely necessary
@@ -329,7 +328,6 @@ club-wielding police
 co-opetition
 cock and bull story
 cold shoulder
-collaboration
 colorful scene
 combat environment
 come hell or high water
@@ -639,7 +637,6 @@ from the point of view
 from where we are standing
 frozen ice
 frozen tundra
-fulfilment issues
 full steam ahead
 fun in the sun
 further to
@@ -670,7 +667,6 @@ gets my goat
 gilding the lily
 give and take
 give consideration to
-give in
 glaring omission
 globalization
 glutton for punishment
@@ -908,7 +904,6 @@ is in consonance with
 is in love with
 is in need of
 is interesting to me
-is like
 is of the opinion
 is responsible for
 is to be
@@ -1282,8 +1277,6 @@ period of time
 permissible
 personal friend
 personal opinion
-personalfriend
-personalopinion
 pertaining to
 peruse
 pick and choose
@@ -1466,7 +1459,7 @@ seize the day
 selling like hot cakes
 selling like hotcakes
 sensorization
-seriousdanger
+serious danger
 serum
 set forth in
 set the record straight
@@ -1485,7 +1478,6 @@ sick as a dog
 sigh of relief
 signed, sealed, and delivered
 silo
-similar to
 similarly
 simply
 sink or swim
@@ -1543,9 +1535,9 @@ steaming jungle
 stick in the mud
 stick out like a sore thumb
 sticks out like a sore thumb
+still persist
+still remains
 still waters run deep
-stillpersist
-stillremains
 stitch in time
 stop and smell the roses
 storm of protest
@@ -1571,7 +1563,7 @@ substantial
 substantial proportion
 substantially
 successfully complete
-suddenimpulse
+sudden impulse
 sufficient
 supplement
 supplementary
@@ -1690,8 +1682,8 @@ too numerous to mention
 took up
 totally
 touch base
+touch point
 touch with a ten foot pole
-touchpoint
 tough as nails
 tower of strength
 transmedia
@@ -1706,7 +1698,7 @@ truly
 try to figure out
 twist of fate
 two cents worth
-two equalhalves
+two equal halves
 two peas in a pod
 typically -> usually
 ugly as sin
@@ -1755,8 +1747,6 @@ vested interest
 vice
 violent explosion
 VIP
-viral
-vlogging
 voila
 vortal
 w.r.t.
