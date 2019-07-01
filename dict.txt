@@ -84,6 +84,7 @@ and/or
 anonymous stranger
 another day, another dollar
 antifragile
+any fool
 apparent
 appear to be
 applicant
@@ -98,17 +99,49 @@ arrive onboard
 as a consequence of
 as a matter of fact
 as a means of
+as all are aware
+as all of you know
 as being
+as everybody knows
+as everyone is aware
+as everyone knows
 as far as I am concerned
 as far as I'm concerned
+as i am sure you know
+as i'm sure you know
+as is known to all
+as is well known
 as luck would have it
+as many of you know
+as most of you know
 as of the date of
 as old as time
 as prescribed by
 as regards
 as the crow flies
 as to whether
+as we all know
 as yet
+as you all know
+as you already know
+as you are aware
+as you are no doubt aware
+as you are well aware
+as you can imagine
+as you guys know
+as you know
+as you may be aware
+as you may know
+as you might know
+as you perhaps know
+as you probably know
+as you very well know
+as you well know
+as you will know
+as you will recall
+as you'll know
+as you'll recall
+as you're no doubt aware
 ascend up
 ascertain
 ask the question
@@ -480,6 +513,7 @@ encouragement
 end result > result
 endeavor
 endeavour
+enough said
 enquire
 enquiry
 enter in
@@ -505,6 +539,7 @@ everyone knows
 everything but the kitchen sink
 evidenced
 evident
+evidently
 evince
 evolve over time
 ex officio
@@ -581,6 +616,8 @@ for the duration of
 for the most part
 for the purpose of
 for the reason that
+for those of you who do not know
+for those of you who don't know
 for what it's worth
 force of nature
 force to be reckoned with
@@ -755,10 +792,16 @@ if and when
 if i'm understanding you correctly
 if the shoe fits
 if the shoe were on the other foot
+if you are not aware
+if you are not familiar
+if you have not heard
+if you haven't heard
 if you need to
 if you want to
 if you wish to
 if you would like to
+if you're not aware
+if you're not familiar
 immersion
 immersive experience
 in a jam
@@ -776,6 +819,12 @@ in addition to
 in advance
 in an effort to
 in case of
+in case you are interested
+in case you are wondering
+in case you do not know
+in case you don't know
+in case you're interested
+in case you're wondering
 in conjunction with
 in connection with
 in consequence
@@ -866,19 +915,24 @@ is to be
 it ain't over till the fat lady sings
 it appears
 it goes without saying
+it goes without saying that
 it is determined
 it is essential
 it is important to note that
 it is known that
+it is recalled that
 it is requested
 it seems like
 it should be understood
+it stands to reason
+it stands to reason that
 it takes all kinds
 it takes one to know one
 it was determined
 it would be
 it's a small world
 it's only a matter of time
+it's recalled that
 ivory tower
 Jack of all trades
 jeopardise
@@ -938,6 +992,7 @@ law of the jungle
 law of the land
 lay down the law
 leaps and bounds
+leave little to the imagination
 leave no stone unturned
 led to the destruction of
 let sleeping dogs lie
@@ -1069,6 +1124,7 @@ nanotechnology
 neat as a pin
 necessarily
 necessitate
+need i say more
 need to do to
 needle in a haystack
 needless to say
@@ -1108,6 +1164,7 @@ not honest
 not important
 not in my backyard
 not later than
+not leave much to the imagination
 not playing with a full deck
 not rocket science
 not the end of the world
@@ -1130,6 +1187,7 @@ off the wagon
 off the wall
 offered a suggestion
 offshoring
+oh boy
 old adage
 old hat
 Old Man Winter
@@ -1680,6 +1738,7 @@ uphill battle
 upper crust
 upselling
 upset the applecart
+use your imagination
 user generated content
 utilisation > usage
 utilise > use
@@ -1776,8 +1835,14 @@ yappy as a dog
 years young
 you are requested
 you are what you eat
+you can guess
 you can run but you can't hide
+you do not have to be a genius
+you don't have to be a genius
+you only have to do
 you only live once
+you will recall
+you'll recall
 you're going to
 you're going to have to
 you're going to need to
