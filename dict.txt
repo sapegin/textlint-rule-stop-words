@@ -786,16 +786,17 @@ ie > that is
 ie. > that is
 if and when
 if i'm understanding you correctly
+if i am understanding you correctly
 if the shoe fits
 if the shoe were on the other foot
 if you are not aware
 if you are not familiar
 if you have not heard
 if you haven't heard
-if you need to
-if you want to
-if you wish to
-if you would like to
+if you need to > to
+if you want to > to
+if you wish to > to
+if you would like to > to
 if you're not aware
 if you're not familiar
 immersion
@@ -1734,8 +1735,10 @@ use your imagination
 user generated content
 utilisation > usage
 utilise > use
+utilises > uses
 utilization > usage
 utilize > use
+utilizes > uses
 vain attempt
 vain effort
 value-added
