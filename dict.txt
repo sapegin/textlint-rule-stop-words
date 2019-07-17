@@ -113,9 +113,9 @@ as is well known
 as luck would have it
 as many of you know
 as most of you know
-as of the date of
-as of right now
 as of now
+as of right now
+as of the date of
 as of today
 as old as time
 as prescribed by
@@ -788,12 +788,13 @@ icing on the cake
 ie > that is
 ie. > that is
 if and when
-if i'm understanding you correctly
 if i am understanding you correctly
+if i'm understanding you correctly
 if the shoe fits
 if the shoe were on the other foot
 if you are not aware
 if you are not familiar
+if you are re unfamiliar
 if you have not heard
 if you haven't heard
 if you need to > to
@@ -802,6 +803,7 @@ if you wish to > to
 if you would like to > to
 if you're not aware
 if you're not familiar
+if you're unfamiliar
 immersion
 immersive experience
 in a jam
