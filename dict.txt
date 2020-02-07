@@ -799,6 +799,8 @@ if you haven't heard
 if you have not already heard
 if you haven't already heard
 if you need to > to
+if you paid attention
+if you paid close attention
 if you want to > to
 if you wish to > to
 if you would like to > to
