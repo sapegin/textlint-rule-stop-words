@@ -32,7 +32,6 @@ acid test
 acknowledge
 acquaint yourself with
 acquiesce
-acquire
 actual facts
 adaptive learning
 add an additional
@@ -115,7 +114,8 @@ as many of you know
 as most of you know
 as of now
 as of right now
-as of the date of
+as of the date of > from
+as of this date > from
 as of today
 as old as time
 as prescribed by
@@ -155,10 +155,10 @@ at its discretion
 at loose ends
 at my wits end
 at the end of the day
-at the moment
-at the present time
-at this moment in time
-at this point in time
+at the moment > now
+at the present time > now
+at this moment in time > now
+at this point in time > now
 attributable to
 authority to
 avoid like the plague
@@ -287,7 +287,7 @@ bury the hatchet
 business process outsourcing
 busy as a bee
 by hook or by crook
-by means of
+by means of > by
 by virtue of
 call a spade a spade
 called onto the carpet
@@ -404,7 +404,6 @@ day in, day out
 dead as a doornail
 death and destruction
 decrease in strength
-deduct
 deem
 deem to be
 deep dive
@@ -614,8 +613,8 @@ for all intents and purposes
 for the birds
 for the duration of
 for the most part
-for the purpose of
-for the reason that
+for the purpose of > of
+for the reason that > because
 for those of you who do not know
 for those of you who don't know
 for what it's worth
@@ -794,10 +793,10 @@ if the shoe were on the other foot
 if you are not aware
 if you are not familiar
 if you are re unfamiliar
-if you have not heard
-if you haven't heard
 if you have not already heard
+if you have not heard
 if you haven't already heard
+if you haven't heard
 if you need to > to
 if you paid attention
 if you paid close attention
@@ -858,8 +857,8 @@ in the attempt that
 in the case of
 in the course of
 in the end
-in the event of
-in the event that
+in the event of > if
+in the event that > if
 in the final analysis
 in the gutter
 in the instance of
@@ -938,7 +937,7 @@ it's a small world
 it's only a matter of time
 it's recalled that
 ivory tower
-Jack of all trades
+jack of all trades
 jeopardise
 jockey for position
 jog your memory
@@ -1153,8 +1152,10 @@ next generation
 nip and tuck
 nip it in the bud
 no big deal
+no fewer than > at least
 no guts, no glory
 no love lost
+no more than > at most
 no pain, no gain
 no skin off my back
 no stone unturned
@@ -1166,7 +1167,6 @@ nose to the grindstone
 not a hope in hell
 not a minute's peace
 not honest
-not important
 not in my backyard
 not later than
 not leave much to the imagination
@@ -1418,7 +1418,6 @@ reinvent the wheel
 reiterate
 relating to
 relative to
-remainder
 remarkably
 remittance
 remuneration
@@ -1504,6 +1503,7 @@ smooth and silk
 smooth as a baby's bottom
 sneaking suspicion
 snug as a bug in a rug
+so as to > so
 social bookmarking
 social currency
 social software
@@ -1613,7 +1613,6 @@ taking up
 talent relationship management
 tee off
 temper tantrum
-tenant
 tender mercies
 terminate
 terror-stricken
