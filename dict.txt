@@ -776,11 +776,12 @@ horse of a different color
 hot under the collar
 hour of need
 hyperlocal
-I am of the opinion that
-I beg to differ
-I might add
-I would like to say
-I would like to take this opportunity to
+i am of the opinion that
+i beg to differ
+i believe
+i might add
+i would like to say
+i would like to take this opportunity to
 i.e. > that is
 icing on the cake
 ie > that is
@@ -889,7 +890,6 @@ instructional scaffolding
 integrate with each other
 intend to
 intensive investigation
-intention is
 interestingly
 internet of things
 interpose no objection
@@ -1621,6 +1621,7 @@ the fact of the matter is
 the fact that
 the first step is to
 the important thing is to
+the intention is that
 the month of
 the months of
 the more the merrier
@@ -1678,8 +1679,7 @@ to coin a phrase
 to each his own
 to make a long story short
 to one's own mind
-to put
-to say
+to say the least
 to the best of my knowledge
 to the extent that
 toe the line
