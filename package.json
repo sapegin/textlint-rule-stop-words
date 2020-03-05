@@ -25,8 +25,7 @@
     "test:jest": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
-    "format": "prettier --write '**/*.{js,md}'",
-    "precommit": "lint-staged"
+    "format": "prettier --write '**/*.{js,md}'"
   },
   "keywords": [
     "textlintrule",
@@ -44,7 +43,7 @@
     "eslint-config-tamia": "^7.1.1",
     "husky": "^4.0.7",
     "jest": "^24.9.0",
-    "lint-staged": "^9.5.0",
+    "lint-staged": "^10.0.7",
     "prettier": "^1.19.1",
     "textlint-tester": "^5.1.13"
   },
@@ -54,13 +53,12 @@
     "textlint-rule-helper": "^2.1.1"
   },
   "lint-staged": {
-    "*.{js,md}": [
-      "prettier --write",
-      "git add"
-    ],
-    "*.js": [
-      "eslint --fix",
-      "git add"
-    ]
+    "*.{js,md}": "prettier --write",
+    "*.js": "eslint --cache --fix"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
