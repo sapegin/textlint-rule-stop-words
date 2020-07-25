@@ -1659,7 +1659,6 @@ this command
 this day and age
 this hurts me worse than it hurts you
 this point in time
-thorough
 three sheets to the wind
 through thick and thin
 throw in the towel
@@ -1798,7 +1797,6 @@ when the cat's away
 when the going gets tough, the tough get going
 whensoever
 whereas
-wherever
 whether or not
 which is
 whirlwind campaign
