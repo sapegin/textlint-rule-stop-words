@@ -19,13 +19,13 @@ describe('getRegExp', () => {
 		expect(result).toBeFalsy();
 	});
 
-	it('should not match a pattern at the beginning of a string', () => {
+	it('should match a pattern at the beginning of a string', () => {
 		const result = getRegExp(word).exec('java bar');
 		expect(result).toBeTruthy();
 		expect(result[1]).toBe('java');
 	});
 
-	it('should not match a pattern at the end of a string', () => {
+	it('should match a pattern at the end of a string', () => {
 		const result = getRegExp(word).exec('foo java');
 		expect(result).toBeTruthy();
 		expect(result[1]).toBe('java');
@@ -51,6 +51,44 @@ describe('getRegExp', () => {
 		const result = getRegExp(word).exec('My java. My webpack.');
 		expect(result).toBeTruthy();
 		expect(result[1]).toBe('java');
+	});
+
+	it('should match a pattern followed by a punctuation mark', () => {
+		const regexp = getRegExp(word);
+		const result1 = 'java! Awesome!'.match(regexp);
+		expect(result1).toBeTruthy();
+		expect(result1[0]).toBe('java');
+		const result2 = 'java? never heard of'.match(regexp);
+		expect(result2).toBeTruthy();
+		expect(result2[0]).toBe('java');
+		const result3 = 'java, a programming language'.match(regexp);
+		expect(result3).toBeTruthy();
+		expect(result3[0]).toBe('java');
+		const result4 = 'java; Python'.match(regexp);
+		expect(result4).toBeTruthy();
+		expect(result4[0]).toBe('java');
+		const result5 = 'java: free'.match(regexp);
+		expect(result5).toBeTruthy();
+		expect(result5[0]).toBe('java');
+	});
+
+	it('should match a pattern ending with a punctuation mark', () => {
+		const regexp = getRegExp(word);
+		const result1 = 'java!'.match(regexp);
+		expect(result1).toBeTruthy();
+		expect(result1[0]).toBe('java');
+		const result2 = 'java?'.match(regexp);
+		expect(result2).toBeTruthy();
+		expect(result2[0]).toBe('java');
+		const result3 = 'java,'.match(regexp);
+		expect(result3).toBeTruthy();
+		expect(result3[0]).toBe('java');
+		const result4 = 'java;'.match(regexp);
+		expect(result4).toBeTruthy();
+		expect(result4[0]).toBe('java');
+		const result5 = 'java:'.match(regexp);
+		expect(result5).toBeTruthy();
+		expect(result5[0]).toBe('java');
 	});
 
 	it('should not match a pattern in as a part of a file name', () => {

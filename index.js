@@ -121,7 +121,14 @@ function filterDict(rules, excludedWords) {
  */
 function getRegExp(word) {
 	const wordPattern = escapeRegExp(word).replace(/'/g, "['’‘]");
-	return new RegExp(`(?:^|[^-\\w])(${wordPattern}(?= |\\. |\\.$|$))`, 'ig');
+	const punctuations = ['\\.', ',', ':', ';', '\\?', '!'];
+	const punctuationsRegExp = punctuations.map(
+		punctuation => `${punctuation} |${punctuation}$`
+	);
+	return new RegExp(
+		`(?:^|[^-\\w])(${wordPattern}(?= |$|${punctuationsRegExp.join('|')}))`,
+		'ig'
+	);
 }
 
 /**
