@@ -42,7 +42,11 @@ You can configure the rule in your `.textlintrc`:
       // Extra words
       "words": [
         "etc.",
-        "you can"
+        "you can",
+        // Use an array to configure a replacement
+        ["blacklist", "denylist"],
+        // Ensure that a word has the correct capitalization
+        ["asciidoc", "AsciiDoc"]
       ],
       // Excluded words
       "exclude": [

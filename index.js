@@ -45,14 +45,16 @@ function reporter(context, options = {}) {
 						const [matched, matchedWord] = match;
 
 						if (alternative) {
-							const replacement = matched.replace(
-								matchedWord,
-								cloneCase(alternative, matchedWord)
-							);
-							const range = [index, index + matched.length];
-							const fix = fixer.replaceTextRange(range, replacement);
-							const message = `Avoid using “${word}”, use “${alternative}” instead`;
-							report(node, new RuleError(message, { index, fix }));
+							if (alternative !== matchedWord) {
+								const replacement = matched.replace(
+									matchedWord,
+									cloneCase(alternative, matchedWord)
+								);
+								const range = [index, index + matched.length];
+								const fix = fixer.replaceTextRange(range, replacement);
+								const message = `Avoid using “${matchedWord}”, use “${alternative}” instead`;
+								report(node, new RuleError(message, { index, fix }));
+							}
 						} else {
 							const message = `Avoid using “${matched.trim()}”`;
 							report(node, new RuleError(message, { index }));
