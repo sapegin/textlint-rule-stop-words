@@ -168,6 +168,40 @@ describe('filterDict', () => {
 	});
 });
 
+tester.run(
+	'textlint-rule-stop-words',
+	{
+		rules: [
+			{
+				ruleId: 'stop-words',
+				rule,
+				options: {
+					words: [['Asciidoctor', 'Asciidoctor']],
+				},
+			},
+		],
+	},
+	{
+		valid: [
+			{
+				text: 'Asciidoctor is great',
+			},
+		],
+		invalid: [
+			{
+				// The capitalization is incorrect
+				text: 'AsciiDoctor is a fast text processor',
+				output: 'Asciidoctor is a fast text processor',
+				errors: [
+					{
+						message: 'Avoid using “AsciiDoctor”, use “Asciidoctor” instead',
+					},
+				],
+			},
+		],
+	}
+);
+
 tester.run('textlint-rule-stop-words', rule, {
 	valid: [
 		{
@@ -263,7 +297,7 @@ tester.run('textlint-rule-stop-words', rule, {
 			output: 'Use Elm',
 			errors: [
 				{
-					message: 'Avoid using “utilize”, use “use” instead',
+					message: 'Avoid using “Utilize”, use “use” instead',
 				},
 			],
 		},
