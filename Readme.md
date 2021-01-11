@@ -41,8 +41,12 @@ You can configure the rule in your `.textlintrc`:
       "skip": ["Blockquote"],
       // Extra words
       "words": [
-        ["etc.", "and so on"],
-        ["you can"]
+        ["etc."],
+        ["you can"],
+        // With a replacement
+        ["blacklist", "denylist"],
+        // Ensure correct capitalization
+        ["asciidoc", "AsciiDoc"]
       ],
       // Excluded words
       "exclude": [
