@@ -1,6 +1,6 @@
 # textlint-rule-stop-words
 
-[![textlint fixable rule](https://img.shields.io/badge/textlint-fixable-green.svg?style=social)](https://textlint.github.io/) [![Build Status](https://travis-ci.org/sapegin/textlint-rule-stop-words.svg)](https://travis-ci.org/sapegin/textlint-rule-stop-words) [![npm](https://img.shields.io/npm/v/textlint-rule-stop-words.svg)](https://www.npmjs.com/package/textlint-rule-stop-words)
+[![textlint fixable rule](https://img.shields.io/badge/textlint-fixable-green.svg?style=social)](https://textlint.github.io/) [![npm](https://img.shields.io/npm/v/textlint-rule-stop-words.svg)](https://www.npmjs.com/package/textlint-rule-stop-words) [![Node.js CI status](https://github.com/sapegin/textlint-rule-stop-words/workflows/Node.js%20CI/badge.svg)](https://github.com/sapegin/textlint-rule-stop-words/actions)
 
 [textlint](https://github.com/textlint/textlint) rule to find filler words, buzzwords and clichés — 1600+ words and phrases in English.
 
