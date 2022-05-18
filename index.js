@@ -128,7 +128,7 @@ function getRegExp(word) {
 		punctuation => `${punctuation} |${punctuation}$`
 	);
 	return new RegExp(
-		`(?:^|[^-\\w])(${wordPattern}(?= |$|${punctuationsRegExp.join('|')}))`,
+		`(?:^|[^-\\w\\u0400-\\u04ff])(${wordPattern}(?= |$|${punctuationsRegExp.join('|')}))`,
 		'igu'
 	);
 }
