@@ -129,7 +129,7 @@ function getRegExp(word) {
 	);
 	return new RegExp(
 		`(?:^|[^-\\w])(${wordPattern}(?= |$|${punctuationsRegExp.join('|')}))`,
-		'ig'
+		'igu'
 	);
 }
 
