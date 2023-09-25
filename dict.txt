@@ -520,7 +520,6 @@ enter in
 enterprise content management
 enterprise service bus
 entirely absent
-entitlement
 envisage
 equal to one another
 equipments
@@ -837,7 +836,6 @@ in consequence
 in consequence of
 in due course
 in excess of
-in general
 in hot water
 in lieu of
 in my mind
@@ -1578,14 +1576,9 @@ substantial proportion
 substantially
 successfully complete
 sudden impulse
-sufficient
 supplement
 supplementary
-supply
-supposed
-supposedly
 supreme sacrifice
-surely
 surprise move
 surprisingly
 surrounded on all sides
@@ -1641,7 +1634,6 @@ the undersigned
 the use of
 their impression
 there is no accounting for taste
-there will be
 thereafter
 thereby
 therefore
@@ -1692,7 +1684,6 @@ too good to be true
 too hot to handle
 too numerous to mention
 took up
-totally
 touch base
 touch point
 touch with a ten foot pole
@@ -1780,7 +1771,6 @@ we have pleasure in whatsoever
 wealth of information
 weather the storm
 web 2.0
-webinar
 weblog
 weed them out
 week of Sundays
