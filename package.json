@@ -4,7 +4,7 @@
 	"description": "Textlint rule to find filler words, buzzwords, and cliches",
 	"author": {
 		"name": "Artem Sapegin",
-		"url": "http://sapegin.me"
+		"url": "https://sapegin.me"
 	},
 	"homepage": "https://github.com/sapegin/textlint-rule-stop-words",
 	"repository": "sapegin/textlint-rule-stop-words",
