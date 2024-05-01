@@ -14,12 +14,10 @@ a word to the wise
 absolutely conclusive
 absolutely essential
 absolutely necessary
-abundance
 abundantly
 accede to
 accelerate
 accentuate
-accommodation
 accompany
 accompanying
 accorded
@@ -29,7 +27,6 @@ accountable talk
 accrue
 ace in the hole
 acid test
-acknowledge
 acquaint yourself with
 acquiesce
 actual facts
@@ -45,14 +42,12 @@ admit to
 advance forward
 advance planning
 advance warning
-advantageous
 adversely impact on
 affix
 afford an opportunity
 afforded
 aforesaid
 against all odds
-aggregate
 agricultural crops
 air your dirty laundry
 all fun and games
@@ -69,14 +64,12 @@ all's well that ends well
 alleviate
 almighty dollar
 along the lines of
-alternative choice
 ameliorate
-amendment
 American as apple pie
 an axe to grind
 and / or
 and all that
-and etc.
+and etc. > and so on
 and so forth
 and/or
 anonymous stranger
@@ -458,7 +451,6 @@ down at the heels
 down in the dumps
 down the hatch
 down to earth
-downsizing
 dramatic new move
 draw the line
 dread disease
@@ -468,21 +460,20 @@ dressed to the nines
 drinking the kool-aid
 drives me up the wall
 drop in the bucket
-due to
-due to the fact of
-due to the fact that
+due to the fact of > due to
+due to the fact that > due to
 dull as dishwater
-during the course of
-during the period
-during the period from
-during which time
+during the course of > during
+during the period > during
+during the period from > from
+during which time > during
 dwelling
 dwindle down
 dyed in the wool
 e-learning
 e.g. > for example
-each and every
-each and every one
+each and every > every
+each and every one > every
 eagle eye
 ear to the ground
 early bird catches the worm
@@ -495,24 +486,15 @@ eating your own dogfood
 effect modifications
 eg > for example
 eg. > for example
-elect
 eleventh hour
-eligible
 eliminate altogether
 eliminate entirely
 elucidate
 emergency situation
-employ
 employer branding
 empower
-empowerment
 empty out
-enclosed
-encounter
-encouragement
 end result > result
-endeavor
-endeavour
 enough said
 enquire
 enquiry
@@ -524,11 +506,11 @@ envisage
 equal to one another
 equipments
 equitable
-equivalent
 eradicate completely
 erroneous
 established conclusive evidence of
-et cetera
+et cetera > and so on
+etc. > and so on
 even the playing field
 event horizon
 every dog has its day
@@ -537,17 +519,13 @@ every single person
 everyone knows
 everything but the kitchen sink
 evidenced
-evident
 evidently
 evince
 evolve over time
 ex officio
 exact counterpart
-exact same
-examination
-exceedingly
+exact same > same
 exempt from
-exhibit
 exit strategy
 expedite
 expeditious
@@ -557,11 +535,9 @@ expenditure
 extant
 extremity
 eye for an eye
-fabricate
 face the music
 face time
 facilitate
-facility
 facts of life
 failed to
 failure to
@@ -851,20 +827,19 @@ in respect of
 in spite of that fact that
 in spite of the fact that
 in terms of
-in the absence of
+in the absence of > without
 in the amount of
 in the attempt that
-in the case of
-in the course of
-in the end
+in the case of > if
+in the course of > during
 in the event of > if
 in the event that > if
 in the final analysis
 in the gutter
-in the instance of
+in the instance of > if
 in the majority of instances
-in the near future
-in the neighborhood of
+in the near future > soon
+in the neighborhood of > about
 in the nick of time
 in the process of
 in the thick of it
@@ -875,19 +850,14 @@ in view of the above
 in view of the fact that
 in your dreams
 inasmuch as
-incorporating
 increase in strength
 incumbent upon
 incurred
-indicate
 information society
 information superhighway
-initiate
-innovative
 insofar as
 instructional scaffolding
 integrate with each other
-intend to
 intensive investigation
 interestingly
 internet of things
@@ -909,10 +879,9 @@ is imperative that
 is in accordance with
 is in consonance with
 is in love with
-is in need of
+is in need of > needs
 is interesting to me
 is of the opinion
-is responsible for
 is to be
 it ain't over till the fat lady sings
 it appears
@@ -931,13 +900,11 @@ it stands to reason that
 it takes all kinds
 it takes one to know one
 it was determined
-it would be
 it's a small world
 it's only a matter of time
 it's recalled that
 ivory tower
 jack of all trades
-jeopardise
 jockey for position
 jog your memory
 join together
@@ -1021,7 +988,6 @@ like cunts
 like father like son
 like taking candy from a baby
 like there's no tomorrow
-limited number
 limp into port
 limps into port
 linked to
@@ -1094,7 +1060,6 @@ meet with each other
 merge together
 might possibly
 mileage may vary
-millennial
 mindshare
 miraculous escape
 mislay
@@ -1126,7 +1091,6 @@ naked as a jaybird
 naked truth
 nanotechnology
 neat as a pin
-necessarily
 necessitate
 need i say more
 need to do to
@@ -1183,7 +1147,6 @@ obligate
 obligatory
 obviously
 occasioned by
-of course
 of the nature of
 of the order of
 off of
@@ -1321,8 +1284,6 @@ political capital
 pool of blood
 poor as a church mouse
 posh resort
-possess
-possessions
 postpone until later
 pot calling the kettle black
 pouring down rain
@@ -1333,7 +1294,6 @@ pragmatic realist
 pre-dawn darkness
 preclude
 predominant
-preheat
 prescribe
 present incumbent
 present time
@@ -1343,7 +1303,6 @@ pretty as a picture
 principal
 prior to
 proactive
-proceed
 procure
 proficiency
 profit center
@@ -1411,8 +1370,6 @@ referred to as
 regard to
 regarding
 regarding the
-regulation
-reimburse
 reins of government
 reinvent the wheel
 reiterate
@@ -1424,8 +1381,6 @@ remuneration
 reply back
 reportedly
 reside
-residence
-resistance
 resulted in a decrease
 resulted in an increase
 return on investment
@@ -1454,7 +1409,6 @@ safe haven
 said
 salt of the earth
 same exact
-scalability
 scantily clad
 scared stiff
 scared to death
@@ -1488,13 +1442,11 @@ sick as a dog
 sigh of relief
 signed, sealed, and delivered
 silo
-similarly
 simply
 sink or swim
 sisterhood
 six of one, half a dozen of another
 skating on thin ice
-skeuomorphic
 slept like a log
 slinging mud
 slippery as an eel
@@ -1571,12 +1523,10 @@ subsequent
 subsequent to
 subsequent upon
 subsequently
-substantial
 substantial proportion
 substantially
 successfully complete
 sudden impulse
-supplement
 supplementary
 supreme sacrifice
 surprise move
@@ -1611,7 +1561,6 @@ talent relationship management
 tee off
 temper tantrum
 tender mercies
-terminate
 terror-stricken
 that being the case
 the fact of the matter is
@@ -1631,7 +1580,6 @@ the reason
 the red carpet treatment
 the same old story
 the undersigned
-the use of
 their impression
 there is no accounting for taste
 thereafter
@@ -1717,7 +1665,6 @@ undernoted
 undersigned
 undertake
 unilateral
-unoccupied
 until such time
 until such time as
 until the cows come home
@@ -1771,7 +1718,7 @@ we have pleasure in whatsoever
 wealth of information
 weather the storm
 web 2.0
-weblog
+weblog > blog
 weed them out
 week of Sundays
 went back over
@@ -1779,7 +1726,6 @@ went belly up
 wet behind the ears
 what goes around comes around
 what you see is what you get
-whatever
 wheelhouse
 when it comes to
 when it rains, it pours
@@ -1789,10 +1735,8 @@ when the going gets tough, the tough get going
 whensoever
 whereas
 whether or not
-which is
 whirlwind campaign
 white as a sheet
-whoever
 whole ball of wax
 whole hog
 whole nine yards
@@ -1803,7 +1747,6 @@ will wonders never cease
 win-win
 wisdom of the ages
 wise as an owl
-wished
 with a view to
 with effect from
 with minimal effort
@@ -1814,7 +1757,6 @@ with the exception of
 with the minimum of delay
 within that time frame
 wolf at the door
-wondered
 words fail me
 work like a dog
 world weary
