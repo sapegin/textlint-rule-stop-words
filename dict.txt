@@ -1704,6 +1704,7 @@ vortal
 w.r.t.
 waiting for the other shoe to drop
 wakeup call
+wake-up call
 walking encyclopedia
 warm welcome
 warrant
