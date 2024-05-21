@@ -793,8 +793,7 @@ in a pinch
 in a timely manner
 in a word
 in accordance with
-in addition
-in addition to
+in addition to > in addition
 in an effort to
 in case of
 in case you are interested
