@@ -259,6 +259,66 @@ tester.run('textlint-rule-stop-words', rule, {
 			],
 		},
 		{
+			// One word, after a comma
+			text: 'You should, hyperlocal Elm',
+			output: 'You should, hyperlocal Elm',
+			errors: [
+				{
+					message: 'Avoid using “hyperlocal”',
+				},
+			],
+		},
+		{
+			// One word, after a colon
+			text: 'You should: hyperlocal Elm',
+			output: 'You should: hyperlocal Elm',
+			errors: [
+				{
+					message: 'Avoid using “hyperlocal”',
+				},
+			],
+		},
+		{
+			// One word, after a semicolon
+			text: 'You should; hyperlocal Elm',
+			output: 'You should; hyperlocal Elm',
+			errors: [
+				{
+					message: 'Avoid using “hyperlocal”',
+				},
+			],
+		},
+		{
+			// One word, before comma
+			text: 'You should hyperlocal,',
+			output: 'You should hyperlocal,',
+			errors: [
+				{
+					message: 'Avoid using “hyperlocal”',
+				},
+			],
+		},
+		{
+			// One word, before point
+			text: 'You should hyperlocal.',
+			output: 'You should hyperlocal.',
+			errors: [
+				{
+					message: 'Avoid using “hyperlocal”',
+				},
+			],
+		},
+		{
+			// One word, before ellipsis
+			text: 'You should hyperlocal…',
+			output: 'You should hyperlocal…',
+			errors: [
+				{
+					message: 'Avoid using “hyperlocal”',
+				},
+			],
+		},
+		{
 			// One word + fix
 			text: 'You should utilize Elm',
 			output: 'You should use Elm',

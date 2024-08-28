@@ -123,7 +123,7 @@ function filterDict(rules, excludedWords) {
  */
 function getRegExp(word) {
 	const wordPattern = escapeRegExp(word).replace(/'/g, "['’‘]");
-	const punctuations = ['\\.', ',', ':', ';', '\\?', '!'];
+	const punctuations = ['\\.', ',', ':', ';', '\\?', '!', '…'];
 	const punctuationsRegExp = punctuations.map(
 		punctuation => `${punctuation} |${punctuation}$`
 	);
