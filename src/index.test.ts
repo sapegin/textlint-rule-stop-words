@@ -1,168 +1,148 @@
-// @ts-check
+import { describe, test, expect } from 'vitest';
+import TextLintTester from 'textlint-tester';
+import rule, { getRegExp, parseDict, filterDict } from './index';
 
-const TextLintTester = require('textlint-tester');
-const rule = require('./index');
-
-const { getRegExp, parseDict, filterDict } = rule.test;
 const tester = new TextLintTester();
 
 describe('getRegExp', () => {
 	const word = 'java';
-	it('should match a pattern as a full word', () => {
+	test('match a pattern as a full word', () => {
 		const result = getRegExp(word).exec('My java is good');
-		expect(result).toBeTruthy();
-		expect(result[1]).toBe('java');
+		expect(result).toContain('java');
 	});
 
-	it('should not match a pattern in the middle of a word', () => {
+	test('not match a pattern in the middle of a word', () => {
 		const result = getRegExp(word).exec('Foo superjavay bar');
 		expect(result).toBeFalsy();
 	});
 
-	it('should match a pattern at the beginning of a string', () => {
+	test('match a pattern at the beginning of a string', () => {
 		const result = getRegExp(word).exec('java bar');
-		expect(result).toBeTruthy();
-		expect(result[1]).toBe('java');
+		expect(result).toContain('java');
 	});
 
-	it('should match a pattern at the end of a string', () => {
+	test('match a pattern at the end of a string', () => {
 		const result = getRegExp(word).exec('foo java');
-		expect(result).toBeTruthy();
-		expect(result[1]).toBe('java');
+		expect(result).toContain('java');
 	});
 
-	it('should not match a pattern at the beginning of a word with a hyphen', () => {
+	test('not match a pattern at the beginning of a word with a hyphen', () => {
 		const result = getRegExp(word).exec('Foo java-ish bar');
 		expect(result).toBeFalsy();
 	});
 
-	it('should not match a pattern in at the end of a word with a hyphen', () => {
+	test('not match a pattern in at the end of a word with a hyphen', () => {
 		const result = getRegExp(word).exec('Foo uber-java bar');
 		expect(result).toBeFalsy();
 	});
 
-	it('should match a pattern at the end of a sentence', () => {
+	test('match a pattern at the end of a sentence', () => {
 		const result = getRegExp(word).exec('My java.');
-		expect(result).toBeTruthy();
-		expect(result[1]).toBe('java');
+		expect(result).toContain('java');
 	});
 
-	it('should match a pattern at the end of a sentence in the middle of a string', () => {
+	test('match a pattern at the end of a sentence in the middle of a string', () => {
 		const result = getRegExp(word).exec('My java. My webpack.');
-		expect(result).toBeTruthy();
-		expect(result[1]).toBe('java');
+		expect(result).toContain('java');
 	});
 
-	it('should match a pattern followed by a punctuation mark', () => {
+	test('match a pattern followed by a punctuation mark', () => {
 		const regexp = getRegExp(word);
 		const result1 = 'java! Awesome!'.match(regexp);
-		expect(result1).toBeTruthy();
-		expect(result1[0]).toBe('java');
+		expect(result1).toContain('java');
 		const result2 = 'java? never heard of'.match(regexp);
-		expect(result2).toBeTruthy();
-		expect(result2[0]).toBe('java');
+		expect(result2).toContain('java');
 		const result3 = 'java, a programming language'.match(regexp);
-		expect(result3).toBeTruthy();
-		expect(result3[0]).toBe('java');
+		expect(result3).toContain('java');
 		const result4 = 'java; Python'.match(regexp);
-		expect(result4).toBeTruthy();
-		expect(result4[0]).toBe('java');
+		expect(result4).toContain('java');
 		const result5 = 'java: free'.match(regexp);
-		expect(result5).toBeTruthy();
-		expect(result5[0]).toBe('java');
+		expect(result5).toContain('java');
 	});
 
-	it('should match a pattern ending with a punctuation mark', () => {
+	test('match a pattern ending with a punctuation mark', () => {
 		const regexp = getRegExp(word);
 		const result1 = 'java!'.match(regexp);
-		expect(result1).toBeTruthy();
-		expect(result1[0]).toBe('java');
+		expect(result1).toContain('java');
 		const result2 = 'java?'.match(regexp);
-		expect(result2).toBeTruthy();
-		expect(result2[0]).toBe('java');
+		expect(result2).toContain('java');
 		const result3 = 'java,'.match(regexp);
-		expect(result3).toBeTruthy();
-		expect(result3[0]).toBe('java');
+		expect(result3).toContain('java');
 		const result4 = 'java;'.match(regexp);
-		expect(result4).toBeTruthy();
-		expect(result4[0]).toBe('java');
+		expect(result4).toContain('java');
 		const result5 = 'java:'.match(regexp);
-		expect(result5).toBeTruthy();
-		expect(result5[0]).toBe('java');
+		expect(result5).toContain('java');
 	});
 
-	it('should not match a pattern in as a part of a file name', () => {
+	test('not match a pattern in as a part of a file name', () => {
 		const result = getRegExp(word).exec('java.md');
 		expect(result).toBeFalsy();
 	});
 
-	it('should match a pattern regardless of its case', () => {
+	test('match a pattern regardless of its case', () => {
 		const result = getRegExp(word).exec('Java is good');
-		expect(result).toBeTruthy();
-		expect(result[1]).toBe('Java');
+		expect(result).toContain('Java');
 	});
 
-	it('should match a pattern with any kind of apostrophe', () => {
+	test('match a pattern with any kind of apostrophe', () => {
 		const result = "foo a'b a’b a‘b bar".match(getRegExp("a'b"));
 		expect(result).toEqual([" a'b", ' a’b', ' a‘b']);
 	});
 
-	it('should not treat words as regexp', () => {
+	test('not treat words as regexp', () => {
 		const result = getRegExp('i.e.').exec('I have an idea');
 		expect(result).toBeFalsy();
 	});
 
-	it('should match several word', () => {
+	test('match several word', () => {
 		const regexp = getRegExp(word);
 		const text = 'My Java is better than your java';
 		const result1 = regexp.exec(text);
-		expect(result1).toBeTruthy();
-		expect(result1[1]).toBe('Java');
+		expect(result1).toContain('Java');
 		const result2 = regexp.exec(text);
-		expect(result2).toBeTruthy();
-		expect(result2[1]).toBe('java');
+		expect(result2).toContain('java');
 	});
 });
 
 describe('parseDict', () => {
-	it('should return an empty array for empty string', () => {
+	test('return an empty array for empty string', () => {
 		const result = parseDict('');
 		expect(result).toEqual([]);
 	});
 
-	it('should split text intro array of arrays', () => {
+	test('split text intro array of arrays', () => {
 		const result = parseDict('a\nb');
 		expect(result).toEqual([['a'], ['b']]);
 	});
 
-	it('should trim whitespace', () => {
+	test('trim whitespace', () => {
 		const result = parseDict('   a	\nb');
 		expect(result).toEqual([['a'], ['b']]);
 	});
 
-	it('should ignore or whitespace-only lines', () => {
+	test('ignore or whitespace-only lines', () => {
 		const result = parseDict('a\n \n\nb');
 		expect(result).toEqual([['a'], ['b']]);
 	});
 
-	it('should split a word and a fix', () => {
+	test('split a word and a fix', () => {
 		const result = parseDict('a>b');
 		expect(result).toEqual([['a', 'b']]);
 	});
 
-	it('should ignore whitespace around >', () => {
+	test('ignore whitespace around >', () => {
 		const result = parseDict('a > b');
 		expect(result).toEqual([['a', 'b']]);
 	});
 });
 
 describe('filterDict', () => {
-	it('should filter array of rules', () => {
+	test('filter array of rules', () => {
 		const result = filterDict([['foo'], ['bar']], [['foo']]);
 		expect(result).toEqual([['bar']]);
 	});
 
-	it('should accept strings for filter instead of arrays', () => {
+	test('accept strings for filter instead of arrays', () => {
 		const result = filterDict([['foo'], ['bar']], ['foo']);
 		expect(result).toEqual([['bar']]);
 	});
@@ -199,7 +179,7 @@ tester.run(
 				],
 			},
 		],
-	}
+	},
 );
 
 tester.run('textlint-rule-stop-words', rule, {

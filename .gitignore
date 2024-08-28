@@ -6,7 +6,7 @@ Thumbs.db
 *.sublime-workspace
 *.log
 Changelog.md
-coverage/
+out/
 node_modules/
 .idea/
 .vscode/

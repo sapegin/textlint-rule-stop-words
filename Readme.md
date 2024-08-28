@@ -2,7 +2,7 @@
 
 [![textlint fixable rule](https://img.shields.io/badge/textlint-fixable-green.svg?style=social)](https://textlint.github.io/) [![npm](https://img.shields.io/npm/v/textlint-rule-stop-words.svg)](https://www.npmjs.com/package/textlint-rule-stop-words) [![Node.js CI status](https://github.com/sapegin/textlint-rule-stop-words/workflows/Node.js%20CI/badge.svg)](https://github.com/sapegin/textlint-rule-stop-words/actions)
 
-[textlint](https://github.com/textlint/textlint) rule to find filler words, buzzwords and clichés — 1600+ words and phrases in English.
+[textlint](https://github.com/textlint/textlint) rule to find filler words, buzzwords, and clichés — 1700+ words and phrases in English.
 
 For example:
 
@@ -35,32 +35,109 @@ You can configure the rule in your `.textlintrc`:
 {
   "rules": {
     "stop-words": {
-      // Load default dictionary (see dict.txt in the repository)
-      "defaultWords": true,
-      // Syntax elements to skip. Overrides the default
-      "skip": ["Blockquote"],
-      // Extra words
+      // Your options here
+    }
+  }
+}
+```
+
+Read more about [configuring textlint](https://github.com/textlint/textlint/blob/master/docs/configuring.md).
+
+### `defaultWords` (default: `true`)
+
+Whether to load the [default dictionary](./dict.txt). Example:
+
+```js
+{
+  "rules": {
+    "stop-words": {
+      // Don't load default dictionary
+      "defaultWords": false,
+    }
+  }
+}
+```
+
+### `skip` (default `['BlockQuote']`)
+
+Syntax elements to skip. By default skips blockquotes. Example:
+
+```js
+{
+  "rules": {
+    "stop-words": {
+      // Don't check terms inside links
+      "skip": ["Link"],
+    }
+  }
+}
+```
+
+See [all available element types](https://github.com/textlint/textlint/blob/master/packages/%40textlint/ast-node-types/src/ASTNodeTypes.ts).
+
+### `words`
+
+Additional words.
+
+Could be an array of words:
+
+```js
+{
+  "rules": {
+    "stop-words": {
+      // List of words
       "words": [
+        // Exact words
         ["etc."],
         ["you can"],
         // With a replacement
-        ["blacklist", "denylist"],
-        // Ensure correct capitalization
-        ["asciidoc", "AsciiDoc"]
+        ["blacklist", "denylist"]
       ],
-      // Excluded words
-      "exclude": [
-        "utilize",
-        "period of time"
-      ],
-      // OR load terms from a file
+    }
+  }
+}
+```
+
+A path to a text file:
+
+```js
+{
+  "rules": {
+    "stop-words": {
+      // Load words from a file
       "words": "~/stop-words.txt"
     }
   }
 }
 ```
 
-Check the [default dictionary](./dict.txt). Read more about [configuring textlint](https://github.com/textlint/textlint/blob/master/docs/configuring.md).
+Check out [the default dictionary](./dict.txt).
+
+### `exclude`
+
+If you don’t like some of [the default words](./dict.txt), you can _exclude_ them. For example, to exclude these entries:
+
+```txt
+// dict.txt
+utilize > use
+period of time
+```
+
+You need to copy the exact entry (for words with replacement, just the first element) to the `exclude` option of the `stop-words` rule in your Textlint config:
+
+```js
+{
+  "rules": {
+    "stop-words": {
+      // Excludes terms
+      "exclude": [
+        "utilize",
+        "period of time"
+      ]
+    }
+  }
+}
+```
 
 ## Tips & tricks
 
