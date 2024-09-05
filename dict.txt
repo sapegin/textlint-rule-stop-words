@@ -1576,7 +1576,7 @@ their impression
 there is no accounting for taste
 thereafter
 thereby
-therefore
+therefore > thus
 therein
 thereof
 thereto
