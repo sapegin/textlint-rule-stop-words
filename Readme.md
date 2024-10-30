@@ -15,6 +15,8 @@ For example:
 
 ![](https://d3vv6lp55qjaqc.cloudfront.net/items/2P3W3w0d1N0K421H333m/textlint-rule-stop-words.png)
 
+[![Washing your code. A book on clean code for frontend developers](https://sapegin.me/images/washing-code-github.jpg)](https://sapegin.me/book/)
+
 ## Installation
 
 ```shell
