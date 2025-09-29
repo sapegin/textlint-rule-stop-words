@@ -303,8 +303,8 @@ cease
 cease and desist
 checkered past
 chef kiss
-chefs kiss
 chef's kiss
+chefs kiss
 cherished belief
 chomping at the bit
 circle back
@@ -994,6 +994,8 @@ literally
 live and learn
 live and let live
 live studio audience
+live under a rock
+living under a rock
 locality
 lock, stock and barrel
 logistics
@@ -1695,8 +1697,8 @@ voila
 vortal
 w.r.t.
 waiting for the other shoe to drop
-wakeup call
 wake-up call
+wakeup call
 walking encyclopedia
 warm welcome
 warrant
