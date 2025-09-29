@@ -19,10 +19,11 @@
     "dict.txt"
   ],
   "scripts": {
-    "pretest": "npm run lint",
+    "pretest": "npm run lint && npm run typecheck",
     "test": "npm run test:vitest",
     "posttest": "npm run format",
     "lint": "eslint . --cache --fix",
+    "typecheck": "tsc --noEmit",
     "test:vitest": "vitest run",
     "test:watch": "vitest",
     "build": "tsc",
