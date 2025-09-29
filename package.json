@@ -42,28 +42,25 @@
     "cliche"
   ],
   "devDependencies": {
-    "@textlint/types": "^14.2.0",
+    "@textlint/types": "^15.2.2",
     "@types/lodash": "^4.17.7",
-    "eslint": "^9.9.1",
-    "eslint-config-tamia": "^9.1.10",
-    "husky": "^9.1.5",
-    "lint-staged": "^15.2.9",
-    "prettier": "^3.3.3",
-    "textlint-tester": "^14.2.0",
-    "typescript": "^5.5.4",
-    "vitest": "^2.0.5"
+    "@types/node": "^24.5.2",
+    "eslint": "^9.36.0",
+    "eslint-config-tamia": "^9.3.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.3",
+    "prettier": "^3.6.2",
+    "textlint-tester": "^15.2.2",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
   },
   "dependencies": {
     "lodash": "^4.17.21",
     "split-lines": "^3.0.0",
-    "textlint-rule-helper": "^2.3.1"
+    "textlint-rule-helper": "^2.5.0"
   },
   "lint-staged": {
-    "*.{ts,js,mjs,cjs,json,jsonc,md}": [
-      "prettier --write"
-    ],
-    "*.{ts,js,mjs,cjs}": [
-      "eslint --fix"
-    ]
+    "*.{ts,js,mjs,cjs,json,jsonc,md}": "prettier --write",
+    "*.{ts,js,mjs,cjs}": "eslint --fix"
   }
 }
