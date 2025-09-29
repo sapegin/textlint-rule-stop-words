@@ -1,5 +1,4 @@
 import fs from 'node:fs';
-import splitLines from 'split-lines';
 import { createRequire } from 'node:module';
 import { RuleHelper } from 'textlint-rule-helper';
 import differenceWith from 'lodash/differenceWith.js';
@@ -27,6 +26,10 @@ const DEFAULT_OPTIONS: Options = {
 	defaultWords: true,
 	skip: ['BlockQuote'],
 };
+
+function splitLines(text: string) {
+	return text.split(/\r?\n/);
+}
 
 function reporter(
 	context: TextlintRuleContext,

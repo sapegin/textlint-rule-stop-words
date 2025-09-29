@@ -57,7 +57,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "split-lines": "^3.0.0",
     "textlint-rule-helper": "^2.5.0"
   },
   "lint-staged": {
