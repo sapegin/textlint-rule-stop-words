@@ -1,9 +1,6 @@
 import fs from 'node:fs';
 import { createRequire } from 'node:module';
 import { RuleHelper } from 'textlint-rule-helper';
-import differenceWith from 'lodash/differenceWith.js';
-import escapeRegExp from 'lodash/escapeRegExp.js';
-import upperFirst from 'lodash/upperFirst.js';
 import type { TxtNode, TxtNodeType } from '@textlint/ast-node-types';
 import type {
 	TextlintFixableRuleModule,
@@ -29,6 +26,14 @@ const DEFAULT_OPTIONS: Options = {
 
 function splitLines(text: string) {
 	return text.split(/\r?\n/);
+}
+
+function escapeRegExp(string: string): string {
+	return string.replaceAll(/[.*+?^${}()|[\]\\]/g, String.raw`\$&`);
+}
+
+function upperFirst(text: string) {
+	return text.charAt(0).toUpperCase() + text.slice(1);
 }
 
 function reporter(
@@ -114,12 +119,10 @@ export function parseDict(contents: string) {
 }
 
 export function filterDict(rules: Rule[], excludedWords: (string | Rule)[]) {
-	return differenceWith(rules, excludedWords, (rule, word) => {
-		if (Array.isArray(word)) {
-			word = word[0];
-		}
-		return rule[0] === word;
-	});
+	const excludedSet = new Set(
+		excludedWords.map((word) => (Array.isArray(word) ? word[0] : word)),
+	);
+	return rules.filter((rule) => excludedSet.has(rule[0]) === false);
 }
 
 /** RegExp to match exact word */
