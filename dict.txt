@@ -29,14 +29,18 @@ ace in the hole
 acid test
 acquaint yourself with
 acquiesce
+act as the gateway
+acts as the gateway
 actual facts
 adaptive learning
 add an additional
+add depth to
 add insult to injury
 add up
 added bonus
 addressees
 addressees are requested
+adds depth to
 admissible
 admit to
 advance forward
@@ -49,7 +53,10 @@ afforded
 aforesaid
 against all odds
 agricultural crops
+aim to explore
+aims to explore
 air your dirty laundry
+aligns with
 all fun and games
 all in a day's work
 all of
@@ -75,6 +82,7 @@ anonymous stranger
 another day, another dollar
 antifragile
 any fool
+apogee
 apparent
 appear to be
 applicant
@@ -155,6 +163,7 @@ at this moment in time > now
 at this point in time > now
 attributable to
 authority to
+avant-garde
 avoid like the plague
 awkward dilemma
 axiomatic
@@ -183,6 +192,7 @@ be desirous of
 be in attendance
 be in possession of
 be in violation
+beacon of hope
 beat a dead horse
 beat a hasty retreat
 beat around the bush
@@ -265,6 +275,7 @@ bring to the table
 bring your own device
 brings home the bacon
 broad across the beam
+broad implications
 broken record
 brought back to reality
 building capabilities
@@ -290,6 +301,7 @@ cameo appearance
 can of worms
 can't cut the mustard
 can't hold a candle to
+careful consideration
 careful scrutiny
 case of mistaken identity
 cat got your tongue
@@ -326,11 +338,13 @@ cloud computing
 club-wielding police
 co-opetition
 cock and bull story
+cognizant
 cold shoulder
 colorful scene
 combat environment
 come hell or high water
 come-to-jesus moment
+commitment to excellence
 common core
 commonplace
 commute back and forth
@@ -340,14 +354,20 @@ completely eliminate
 completely engulfed
 completely filled
 completely full
+complex interplay
 comply with
+comprehensive overview
+comprehensive understanding
 comprise
 compulsory
 conceivably
 concerning
+conclusion of the study demonstrates
+conclusion of the study provides
 confused and bewildered
 connect together
 considerable
+considering factors
 consolidate
 conspicuous by its absence
 constitute
@@ -355,7 +375,14 @@ constitutes
 construe
 consult
 contemplate
+continue to inspire
+continue to provide
+continues to captivate
+continues to inspire
+continues to thrive
 contrary to
+contribute to understanding
+contributes to understanding
 convene
 cool as a cucumber
 cool, calm, and collected
@@ -373,14 +400,20 @@ crack troops
 crash course
 creature comforts
 crisis situation
+critical component
+critical components
 cross that bridge when you come to it
+crucial development
+crucial role
 crushing blow
 cry like a baby
 cry me a river
 cry over spilt milk
 crystal clear
+cultural heritage
 cumulative
 curiosity killed the cat
+curiosity piques
 current trend
 currently
 curvaceous blonde
@@ -404,13 +437,26 @@ deem
 deem to be
 deep dive
 deep web
+deeper understanding
+deeply rooted
+delve deeper into
+delve into
+delves deeper into
+delves into
 demonstrate
 denote
 depreciate in value
 descend down
 designate
 desirable benefit
+despite facing
+despite its success
+despite the challenge faced
+despite the challenges faced
+despite the face
 despite the fact that
+despite these challenges
+despite this challenge
 determined the truth of
 detrimental
 devil is in the details
@@ -433,6 +479,8 @@ disgraced and dishonored
 disruptive innovation
 disruptive technologies
 disseminate
+distinguished
+diverse tapestry
 divide and conquer
 divisive quarrel
 dog and pony show
@@ -492,10 +540,32 @@ eliminate altogether
 eliminate entirely
 elucidate
 emergency situation
+emphasize its importance
+emphasize the importance
+emphasize the need
+emphasizes its importance
+emphasizes the importance
+emphasizes the need
+emphasizing its importance
+emphasizing the importance
+emphasizing the need
 employer branding
 empower
 empty out
 end result > result
+endure a legacy
+endures a legacy
+enduring legacy
+enhance its significance
+enhance its understanding
+enhance the significance
+enhance the understanding
+enhances its significance
+enhances its understanding
+enhances the significance
+enhances the understanding
+enhancing its significance
+enhancing the significance
 enough said
 enquire
 enquiry
@@ -504,12 +574,16 @@ enterprise content management
 enterprise service bus
 entirely absent
 envisage
+epitome
 equal to one another
 equipments
 equitable
 eradicate completely
 erroneous
+essential to recognize
+essential to reduce
 established conclusive evidence of
+esteemed
 et cetera > and so on
 etc > and so on
 even the playing field
@@ -536,8 +610,10 @@ expenditure
 extant
 extremity
 eye for an eye
+face several challenges
 face the music
 face time
+faces several challenges
 facilitate
 facts of life
 failed to
@@ -548,6 +624,9 @@ fall by the wayside
 fall down
 fame and fortune
 fan the flames
+fascinating glimpse
+fast pace of the world
+fast-paced world
 favorable approval
 feasible
 feast or famine
@@ -565,6 +644,7 @@ filthy vermin
 final conclusion
 final outcome
 final ultimatum
+finding a contribution
 fine kettle of fish
 first and foremost
 first conceived
@@ -623,9 +703,14 @@ fuse together
 future plan
 future plans
 fuzzy logic
+gain a valuable insight
+gain an insight
+gains a valuable insight
+gains an insight
 game changer
 game changing
 game-changer
+game-changing
 garbage in, garbage out
 gather together
 gave permission to
@@ -685,6 +770,7 @@ grow in size
 growing like a weed
 grown in size
 guided reading
+gusto
 had a conversation
 had a discussion concerning
 hair of the dog
@@ -733,14 +819,27 @@ high and dry
 high and mighty
 high as a kite
 higher-order thinking
+highlight the importance
+highlight the need
+highlight the potential
+highlight the significance
+highlighting its significance
+highlighting the potential
+highlights its significance
+highlights the importance
+highlights the need
+highlights the potential
+highlights the significance
 hired mercenary
 hit paydirt
 hitherto
+hold a significant
 hold in abeyance
 hold your head up high
 hold your horses
 hold your own
 hold your tongue
+holds a significant
 holistic
 holistic approach
 hollow tube
@@ -760,6 +859,7 @@ i would like to say
 i would like to take this opportunity to
 i.e. > that is
 icing on the cake
+identify the area of improvement
 ie > that is
 ie. > that is
 if and when
@@ -785,6 +885,13 @@ if you're not familiar
 if you're unfamiliar
 immersion
 immersive experience
+implication to understand
+importance of the address
+importance to consider
+important implication
+important to consider
+important to note
+important to remember
 in a jam
 in a jiffy
 in a manner similar to
@@ -850,8 +957,13 @@ inasmuch as
 increase in strength
 incumbent upon
 incurred
+indelible mark
+indomitable
+influence various factors
+influences various factors
 information society
 information superhighway
+informed decision
 insofar as
 instructional scaffolding
 integrate with each other
@@ -864,8 +976,10 @@ introduced for the first time
 invested in
 iron out
 irreducible minimum
+irrefutable
 irrespective of
 is a number
+is a testament
 is after
 is applicable to
 is authorized to
@@ -886,7 +1000,9 @@ it goes without saying
 it goes without saying that
 it is determined
 it is essential
-it is important to note that
+it is imperative
+it is important to note
+it is important to remember
 it is known that
 it is recalled that
 it is requested
@@ -898,6 +1014,9 @@ it takes all kinds
 it takes one to know one
 it was determined
 it's a small world
+it's imperative
+it's important to note
+it's important to remember
 it's only a matter of time
 it's recalled that
 ivory tower
@@ -923,6 +1042,7 @@ keep the home fires burning
 keep up with the Joneses
 keep your chin up
 keep your fingers crossed
+key turning point
 kick the bucket
 kick up your heels
 kick your feet up
@@ -953,14 +1073,19 @@ last but not least
 last hurrah
 last-ditch effort
 last-ditch stand
+lasting influence
+lasting legacy
 later time
 law of the jungle
 law of the land
 lay down the law
 leaps and bounds
+leave a lasting impact
 leave little to the imagination
 leave no stone unturned
+leaves a lasting impact
 led to the destruction of
+legacy of life
 let sleeping dogs lie
 let the cat out of the bag
 let the good times roll
@@ -1026,8 +1151,11 @@ made an announcement
 made it to
 made out of
 magnitude
+maintain its relevance
+maintains its relevance
 major breakthrough
 major feat
+make a challenge
 make an announcement
 make hay while the sun shines
 make it pop
@@ -1036,13 +1164,16 @@ make my day
 make the best of a bad situation
 make the best of it
 make your blood boil
+makes a challenge
 man in the street
 man of few words
 man's best friend
 management visibility
 manner
 marginal
+mark a significant
 mark my words
+marks a significant
 marvels of science
 mashup
 materialise
@@ -1058,6 +1189,7 @@ Mecca
 meet together
 meet with each other
 merge together
+meticulous attention
 might possibly
 mileage may vary
 mindshare
@@ -1081,6 +1213,7 @@ moves into high gear
 moving experience
 moving forward
 mull over
+multifaceted
 multiple intelligences
 mutual cooperation
 mutual respect for each other
@@ -1090,10 +1223,17 @@ my understanding is
 naked as a jaybird
 naked truth
 nanotechnology
+navigate the challenge
+navigate the complex
+navigates the challenge
+navigates the complex
+navigating the challenge
+navigating the complex
 neat as a pin
 necessitate
 need i say more
 need to do to
+need to fully understand
 needle in a haystack
 needless to say
 negligible
@@ -1113,6 +1253,7 @@ new kids on the block
 new normal
 new record
 next generation
+nexus
 nip and tuck
 nip it in the bud
 no big deal
@@ -1143,8 +1284,11 @@ nothing ventured nothing gained
 notwithstanding
 now pending
 now we're cooking
+nuanced understanding
+objective study aimed
 obligate
 obligatory
+observers have cited
 obviously
 occasioned by
 of the nature of
@@ -1153,7 +1297,11 @@ off of
 off the top of my head
 off the wagon
 off the wall
+offer a unique perspective
+offer a valuable
 offered a suggestion
+offers a unique perspective
+offers a valuable
 offshoring
 oh boy
 old adage
@@ -1162,6 +1310,7 @@ Old Man Winter
 older and wiser
 older than dirt
 older than Methuselah
+omniscient
 on a regular basis
 on a roll
 on behalf of
@@ -1189,11 +1338,15 @@ one brick short
 one foot in the grave
 one in a million
 one red cent
+ongoing initiatives
 only game in town
 open a can of worms
+open a new avenue
 open and shut case
 open the flood gates
 open up
+opening a new avenue
+opens a new avenue
 opportunity doesn't knock twice
 organic growth
 organic life
@@ -1224,6 +1377,7 @@ pandering
 panic button
 par for the course
 paradigm shift
+paradigm-shifting
 paralysis by analysis
 part and parcel
 part of our dna
@@ -1235,6 +1389,9 @@ passing fad
 past experience
 patently obvious
 patience is a virtue
+pave the way
+paves the way
+paving the way
 pay the supreme penalty
 pay through the nose
 pedagogy
@@ -1261,8 +1418,10 @@ pillar of society
 pillar of the church
 pillar of the community
 pin your hopes on
+pinnacle
 pinpoint the cause
 pitter patter of little feet
+pivotal
 plain as day
 plain as the nose on your face
 play by the rules
@@ -1284,6 +1443,8 @@ poor as a church mouse
 posh resort
 postpone until later
 pot calling the kettle black
+potential developments
+potential to revolutionize
 pouring down rain
 powder keg
 practicable
@@ -1293,8 +1454,12 @@ pre-dawn darkness
 preclude
 predominant
 prescribe
+present a unique challenge
 present incumbent
+present numerous challenges
 present time
+presents a unique challenge
+presents numerous challenges
 prestigious law firm
 presumably
 pretty as a picture
@@ -1304,11 +1469,14 @@ proactive
 procure
 proficiency
 profit center
+profound heritage
+profound implication
 profusion of
 progress something
 project-based learning
 projected
 prolonged
+prominent figure
 promptly
 promulgate
 promulgation
@@ -1316,8 +1484,13 @@ protest against
 proud heritage
 proud parents
 proved of benefit to
+provide a framework to understand
+provide an insight
 provided that
+provides a framework to understand
+provides an insight
 provides guidance for
+providing an insight
 provisions
 proximity
 pull a fast one
@@ -1343,6 +1516,7 @@ quick as a wink
 quick as lightning
 quick-win
 quiet as a dormouse
+quintessential
 quite clearly
 radiant bride
 rags to riches
@@ -1373,17 +1547,20 @@ reinvent the wheel
 reiterate
 relating to
 relative to
+relentless pursuit
 remarkably
 remittance
 remuneration
 reply back
 reportedly
+research needed to understand
 reside
 resulted in a decrease
 resulted in an increase
 return on investment
 reverse fulfilment
 rich and famous
+rich tapestry
 right and proper
 rightshoring
 rings a bell
@@ -1420,15 +1597,20 @@ seen the light
 seize the day
 selling like hot cakes
 selling like hotcakes
+sense of camaraderie
 sensorization
+sent shockwaves through
+serf reminder
 serious danger
 serum
+serves as
 set forth in
 set the record straight
 set the world on fire
 set your teeth on edge
 share options
 sharp as a tack
+shed light
 shoot for the moon
 shoot the breeze
 short runway
@@ -1439,6 +1621,13 @@ shy and withdrawn
 sick as a dog
 sigh of relief
 signed, sealed, and delivered
+significant attention
+significant challenge
+significant implication
+significant milestone
+significant role
+significant step forward
+significant stride
 silo
 simply
 sink or swim
@@ -1461,13 +1650,15 @@ social software
 socialize
 solely
 solicit
+some critics argue
 something or other
 sort of
 sow wild oats
 sox
 spare the rod, spoil the child
 speak of the devil
-spearheading the campaign
+spearheaded
+spearheading
 specifically
 spell it out in detail
 spilled the beans
@@ -1484,8 +1675,10 @@ spreading like wildfire
 spring to life
 squeaky wheel gets the grease
 stakeholder
+stands as
 stands out like a sore thumb
 star of the show
+stark reminder
 start from scratch
 start off
 start out
@@ -1493,6 +1686,7 @@ starvation
 state-of-the-art
 statist
 statutory
+steadfast dedication
 steaming jungle
 stick in the mud
 stick out like a sore thumb
@@ -1541,6 +1735,7 @@ sworn affidavit
 sync-up
 synergy
 systems development life-cycle
+take a dive into
 take a load off
 take a look at
 take action
@@ -1556,6 +1751,7 @@ takes two to tango
 takes up
 taking up
 talent relationship management
+target intervention
 tee off
 temper tantrum
 tender mercies
@@ -1578,6 +1774,7 @@ the red carpet treatment
 the same old story
 the undersigned
 their impression
+there are a few considerations
 there is no accounting for taste
 thereafter
 thereby
@@ -1621,6 +1818,7 @@ to one's own mind
 to say the least
 to the best of my knowledge
 to the extent that
+today in the digital age
 toe the line
 tongue in cheek
 too good to be true
@@ -1632,7 +1830,10 @@ touch point
 touch with a ten foot pole
 tough as nails
 tower of strength
+trailblazing
+transformative power
 transmedia
+treasure trove
 trial and error
 trials and tribulations
 tried and true
@@ -1646,23 +1847,41 @@ two cents worth
 two equal halves
 two peas in a pod
 typically -> usually
+ubiquitous
 ugly as sin
 ultimate outcome
 ultimately
+unassailable
 unavailability
+unblemished
 under the counter
 under the gun
 under the provisions of
 under the same roof
 under the weather
 undernoted
+underscore the importance
+underscore the need
+underscores its importance
+underscores the importance
+underscores the need
+underscoring its importance
+underscoring the importance
 undersigned
+understanding the fundamental
 undertake
+unequaled
 unilateral
+unique blend
+unparalleled
+unrivaled
+unsurpassed
 until such time
 until such time as
 until the cows come home
 unvarnished truth
+unwavering
+unyielding
 up her sleeve
 up his sleeve
 up my sleeve
@@ -1684,7 +1903,10 @@ utilize > use
 utilizes > uses
 vain attempt
 vain effort
+validate the finding
+valuable insight
 value-added
+value-driven
 vanish in thin air
 vanquish the enemy
 various and sundry
@@ -1693,6 +1915,8 @@ vested interest
 vice
 violent explosion
 VIP
+visionary
+vital role
 voila
 vortal
 w.r.t.
@@ -1707,6 +1931,7 @@ watch your p's and q's
 watch your tongue
 watching the clock
 water under the bridge
+watershed moment
 ways and means
 we all know that
 we have pleasure in whatsoever
@@ -1757,6 +1982,7 @@ work like a dog
 world weary
 worst nightmare
 worth its weight in gold
+worth mentioning
 wouldn't touch with a ten foot pole
 writing on the wall
 wrong side of the bed
