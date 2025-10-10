@@ -297,6 +297,7 @@ by virtue of
 call a spade a spade
 called onto the carpet
 calm before the storm
+came across your work
 cameo appearance
 can of worms
 can't cut the mustard
@@ -852,12 +853,15 @@ hot under the collar
 hour of need
 hyperlocal
 i am of the opinion that
+i am reaching out
 i beg to differ
 i believe
+i hope this message finds you well
 i might add
 i would like to say
 i would like to take this opportunity to
 i.e. > that is
+i'm reaching out
 icing on the cake
 identify the area of improvement
 ie > that is
@@ -1841,6 +1845,7 @@ trip down memory lane
 trivial
 true colors
 true facts
+truly impressed
 try to figure out
 twist of fate
 two cents worth
