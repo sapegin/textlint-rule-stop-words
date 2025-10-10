@@ -2,13 +2,16 @@
 
 [![textlint fixable rule](https://img.shields.io/badge/textlint-fixable-green.svg?style=social)](https://textlint.github.io/) [![npm](https://img.shields.io/npm/v/textlint-rule-stop-words.svg)](https://www.npmjs.com/package/textlint-rule-stop-words) [![Node.js CI status](https://github.com/sapegin/textlint-rule-stop-words/workflows/Node.js%20CI/badge.svg)](https://github.com/sapegin/textlint-rule-stop-words/actions)
 
-[textlint](https://github.com/textlint/textlint) rule to find filler words, buzzwords, and clichés — 1700+ words and phrases in English.
+[textlint](https://github.com/textlint/textlint) rule to find filler words, buzzwords, and clichés — [2000+ words and phrases](./dict.txt) in English.
 
 For example:
 
 - and etc.
+- multifaceted
+- rich tapestry
 - the month of
 - thick as a brick
+- today in the digital age
 - utilize
 
 (You can disable some words or add your own.)
