@@ -45,13 +45,13 @@
   "devDependencies": {
     "@textlint/types": "^15.2.2",
     "@types/node": "^24.5.2",
-    "eslint": "^9.36.0",
-    "eslint-config-tamia": "^9.3.0",
+    "eslint": "^9.37.0",
+    "eslint-config-tamia": "^9.4.3",
     "husky": "^9.1.7",
     "lint-staged": "^16.2.3",
     "prettier": "^3.6.2",
     "textlint-tester": "^15.2.2",
-    "typescript": "^5.9.2",
+    "typescript": "^5.9.3",
     "vitest": "^3.2.4"
   },
   "dependencies": {

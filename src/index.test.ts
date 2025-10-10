@@ -6,6 +6,7 @@ const tester = new TextLintTester();
 
 describe('getRegExp', () => {
 	const word = 'java';
+
 	test('match a pattern as a full word', () => {
 		const result = getRegExp(word).exec('My java is good');
 		expect(result).toContain('java');
